@@ -1,38 +1,128 @@
-#ATUALIZACAO:12 Agosto 2026,,,,,,
-🏍️ MotoGP Great Britain Grand Prix<br>Silverstone,7,8,2026,9,8,2026
-🌊 Surf (WSL) Teahupo’o<br>Tahiti French Polynesia,8,8,2026,18,8,2026
-🏎️ Formula 1 HEINEKEN DUTCH GRAND PRIX<br>Zandvoort,21,8,2026,23,8,2026
-🌊 Surf (WSL) Cloudbreak<br>Fiji,25,8,2026,4,9,2026
-🏁 Rally & WRC ueno Rally del Paraguay<br>Paraguay,27,8,2026,30,8,2026
-🏍️ MotoGP Aragon Grand Prix<br>MotorLand,28,8,2026,30,8,2026
-,,,,,,
-🏎️ Formula 1 PIRELLI GRAN PREMIO D’ITALIA<br>Monza,4,9,2026,6,9,2026
-🏁 Rally & WRC Rally Chile Bio Bío<br>Chile,10,9,2026,13,9,2026
-🏎️ Formula 1 TAG HEUER SPANISH GRAND PRIX<br>Madrid,11,9,2026,13,9,2026
-🏍️ MotoGP San Marino Grand Prix<br>Misano,11,9,2026,13,9,2026
-🌊 Surf (WSL) Lower Trestles<br>San Clemente Calif USA,11,9,2026,20,9,2026
-🏍️ MotoGP Austria Grand Prix<br>Spielberg,18,9,2026,20,9,2026
-🏎️ Formula 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX<br>Baku,24,9,2026,26,9,2026
-,,,,,,
-🏁 Rally & WRC Rally Italia Sardegna<br>Sardegna,1,10,2026,4,10,2026
-🏍️ MotoGP Japan Grand Prix<br>Motegi,2,10,2026,4,10,2026
-🏎️ Formula 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX<br>Singapore,2,10,2026,4,10,2026
-🏍️ MotoGP Indonesia Grand Prix<br>Mandalika,16,10,2026,18,10,2026
-🏎️ Formula 1 PIRELLI UNITED STATES GRAND PRIX<br>Austin,23,10,2026,25,10,2026
-🏍️ MotoGP Australia Grand Prix<br>Phillip Island,23,10,2026,25,10,2026
-🏎️ Formula 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO<br>Mexico City,30,10,2026,1,11,2026
-🏍️ MotoGP Thailand Grand Prix<br>Buriram,30,10,2026,1,11,2026
-,,,,,,
-🏁 Rally & WRC ACROPOLIS RALLY GREECE<br>Greece,12,11,2026,15,11,2026
-🏎️ Formula 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO<br>São Paulo,13,11,2026,15,11,2026
-🏍️ MotoGP Malaysia Grand Prix<br>Sepang,13,11,2026,15,11,2026
-🏎️ Formula 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX<br>Las Vegas,26,11,2026,28,11,2026
-,,,,,,
-🏁 Rally & WRC FORUM8 Rally Japan<br>Japan,3,12,2026,6,12,2026
-🏎️ Formula 1 QATAR AIRWAYS QATAR GRAND PRIX<br>Lusail,4,12,2026,6,12,2026
-🏎️ Formula 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX<br>Yas Marina,11,12,2026,13,12,2026
-,,,,,,
-🏁 Rally & WRC Rallye Monte-Carlo<br>Monte-Carlo,28,1,2027,31,1,2027
-🌊 Surf (WSL) Banzai Pipeline<br>Hawaii,29,1,2027,10,2,2027
-,,,,,,
-🏁 Rally & WRC Rally Sweden<br>Sweden,11,2,2027,14,2,2027
+#ATUALIZACAO: 16 Setembro 2026,,,,,,
+#JANELA_APLICADA: 09 Setembro 2026 a 20 Março 2027,,,,,,
+#COBERTURA: Sessões de pista de Formula 1, MotoGP e WorldSBK confirmadas por data. Sem horários locais quando não publicados oficialmente.,,,,,,
+#FORMATO: [NOME]<br>[LOCAL],DIA_INÍCIO,MÊS_INÍCIO,ANO_INÍCIO,DIA_FIM,MÊS_FIM,ANO_FIM
+
+⏱️ MotoGP [Grande Prémio de San Marino — Treino Livre 1]<br>Misano World Circuit Marco Simoncelli - Itália,11,9,2026,,,
+⏱️ MotoGP [Grande Prémio de San Marino — Treino cronometrado]<br>Misano World Circuit Marco Simoncelli - Itália,11,9,2026,,,
+⏱️ MotoGP [Grande Prémio de San Marino — Treino Livre 2]<br>Misano World Circuit Marco Simoncelli - Itália,12,9,2026,,,
+⏱️ MotoGP [Grande Prémio de San Marino — Qualificação Q1]<br>Misano World Circuit Marco Simoncelli - Itália,12,9,2026,,,
+⏱️ MotoGP [Grande Prémio de San Marino — Qualificação Q2]<br>Misano World Circuit Marco Simoncelli - Itália,12,9,2026,,,
+🏍️ MotoGP [Grande Prémio de San Marino — Sprint]<br>Misano World Circuit Marco Simoncelli - Itália,12,9,2026,,,
+⏱️ MotoGP [Grande Prémio de San Marino — Warm-up]<br>Misano World Circuit Marco Simoncelli - Itália,13,9,2026,,,
+🏍️ MotoGP [Grande Prémio de San Marino — Corrida]<br>Misano World Circuit Marco Simoncelli - Itália,13,9,2026,,,
+⏱️ MotoGP [Grande Prémio da Áustria — Treino Livre 1]<br>Red Bull Ring - Áustria,18,9,2026,,,
+⏱️ MotoGP [Grande Prémio da Áustria — Treino cronometrado]<br>Red Bull Ring - Áustria,18,9,2026,,,
+⏱️ MotoGP [Grande Prémio da Áustria — Treino Livre 2]<br>Red Bull Ring - Áustria,19,9,2026,,,
+⏱️ MotoGP [Grande Prémio da Áustria — Qualificação Q1]<br>Red Bull Ring - Áustria,19,9,2026,,,
+⏱️ MotoGP [Grande Prémio da Áustria — Qualificação Q2]<br>Red Bull Ring - Áustria,19,9,2026,,,
+🏍️ MotoGP [Grande Prémio da Áustria — Sprint]<br>Red Bull Ring - Áustria,19,9,2026,,,
+⏱️ MotoGP [Grande Prémio da Áustria — Warm-up]<br>Red Bull Ring - Áustria,20,9,2026,,,
+🏍️ MotoGP [Grande Prémio da Áustria — Corrida]<br>Red Bull Ring - Áustria,20,9,2026,,,
+⏱️ Formula 1 [Grande Prémio do Azerbaijão — Treino Livre 1]<br>Baku City Circuit - Azerbaijão,24,9,2026,,,
+⏱️ Formula 1 [Grande Prémio do Azerbaijão — Treino Livre 2]<br>Baku City Circuit - Azerbaijão,24,9,2026,,,
+⏱️ Formula 1 [Grande Prémio do Azerbaijão — Treino Livre 3]<br>Baku City Circuit - Azerbaijão,25,9,2026,,,
+⏱️ Formula 1 [Grande Prémio do Azerbaijão — Qualificação]<br>Baku City Circuit - Azerbaijão,25,9,2026,,,
+🏎️ Formula 1 [Grande Prémio do Azerbaijão — Corrida]<br>Baku City Circuit - Azerbaijão,26,9,2026,,,
+
+⏱️ MotoGP [Grande Prémio do Japão — Treino Livre 1]<br>Mobility Resort Motegi - Japão,2,10,2026,,,
+⏱️ MotoGP [Grande Prémio do Japão — Treino cronometrado]<br>Mobility Resort Motegi - Japão,2,10,2026,,,
+⏱️ MotoGP [Grande Prémio do Japão — Treino Livre 2]<br>Mobility Resort Motegi - Japão,3,10,2026,,,
+⏱️ MotoGP [Grande Prémio do Japão — Qualificação Q1]<br>Mobility Resort Motegi - Japão,3,10,2026,,,
+⏱️ MotoGP [Grande Prémio do Japão — Qualificação Q2]<br>Mobility Resort Motegi - Japão,3,10,2026,,,
+🏍️ MotoGP [Grande Prémio do Japão — Sprint]<br>Mobility Resort Motegi - Japão,3,10,2026,,,
+⏱️ MotoGP [Grande Prémio do Japão — Warm-up]<br>Mobility Resort Motegi - Japão,4,10,2026,,,
+🏍️ MotoGP [Grande Prémio do Japão — Corrida]<br>Mobility Resort Motegi - Japão,4,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Indonésia — Treino Livre 1]<br>Pertamina Mandalika Circuit - Indonésia,9,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Indonésia — Treino cronometrado]<br>Pertamina Mandalika Circuit - Indonésia,9,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Indonésia — Treino Livre 2]<br>Pertamina Mandalika Circuit - Indonésia,10,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Indonésia — Qualificação Q1]<br>Pertamina Mandalika Circuit - Indonésia,10,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Indonésia — Qualificação Q2]<br>Pertamina Mandalika Circuit - Indonésia,10,10,2026,,,
+🏍️ MotoGP [Grande Prémio da Indonésia — Sprint]<br>Pertamina Mandalika Circuit - Indonésia,10,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Indonésia — Warm-up]<br>Pertamina Mandalika Circuit - Indonésia,11,10,2026,,,
+🏍️ MotoGP [Grande Prémio da Indonésia — Corrida]<br>Pertamina Mandalika Circuit - Indonésia,11,10,2026,,,
+⏱️ Formula 1 [Grande Prémio de Singapura — Treino Livre 1]<br>Marina Bay Street Circuit - Singapura,9,10,2026,,,
+⏱️ Formula 1 [Grande Prémio de Singapura — Qualificação Sprint]<br>Marina Bay Street Circuit - Singapura,9,10,2026,,,
+🏎️ Formula 1 [Grande Prémio de Singapura — Sprint]<br>Marina Bay Street Circuit - Singapura,10,10,2026,,,
+⏱️ Formula 1 [Grande Prémio de Singapura — Qualificação]<br>Marina Bay Street Circuit - Singapura,10,10,2026,,,
+🏎️ Formula 1 [Grande Prémio de Singapura — Corrida]<br>Marina Bay Street Circuit - Singapura,11,10,2026,,,
+⏱️ WorldSBK [Estoril — Treino Livre 1]<br><b>Circuito do Estoril - Portugal</b>,9,10,2026,,,
+⏱️ WorldSBK [Estoril — Treino Livre 2]<br><b>Circuito do Estoril - Portugal</b>,9,10,2026,,,
+⏱️ WorldSBK [Estoril — Treino Livre 3]<br><b>Circuito do Estoril - Portugal</b>,10,10,2026,,,
+⏱️ WorldSBK [Estoril — Superpole]<br><b>Circuito do Estoril - Portugal</b>,10,10,2026,,,
+🏍️ WorldSBK [Estoril — Corrida 1]<br><b>Circuito do Estoril - Portugal</b>,10,10,2026,,,
+⏱️ WorldSBK [Estoril — Warm-up]<br><b>Circuito do Estoril - Portugal</b>,11,10,2026,,,
+🏍️ WorldSBK [Estoril — Superpole Race]<br><b>Circuito do Estoril - Portugal</b>,11,10,2026,,,
+🏍️ WorldSBK [Estoril — Corrida 2]<br><b>Circuito do Estoril - Portugal</b>,11,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Austrália — Treino Livre 1]<br>Phillip Island Grand Prix Circuit - Austrália,23,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Austrália — Treino cronometrado]<br>Phillip Island Grand Prix Circuit - Austrália,23,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Austrália — Treino Livre 2]<br>Phillip Island Grand Prix Circuit - Austrália,24,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Austrália — Qualificação Q1]<br>Phillip Island Grand Prix Circuit - Austrália,24,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Austrália — Qualificação Q2]<br>Phillip Island Grand Prix Circuit - Austrália,24,10,2026,,,
+🏍️ MotoGP [Grande Prémio da Austrália — Sprint]<br>Phillip Island Grand Prix Circuit - Austrália,24,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Austrália — Warm-up]<br>Phillip Island Grand Prix Circuit - Austrália,25,10,2026,,,
+🏍️ MotoGP [Grande Prémio da Austrália — Corrida]<br>Phillip Island Grand Prix Circuit - Austrália,25,10,2026,,,
+⏱️ Formula 1 [Grande Prémio dos Estados Unidos — Treino Livre 1]<br>Circuit of the Americas - Austin, EUA,23,10,2026,,,
+⏱️ Formula 1 [Grande Prémio dos Estados Unidos — Treino Livre 2]<br>Circuit of the Americas - Austin, EUA,23,10,2026,,,
+⏱️ Formula 1 [Grande Prémio dos Estados Unidos — Treino Livre 3]<br>Circuit of the Americas - Austin, EUA,24,10,2026,,,
+⏱️ Formula 1 [Grande Prémio dos Estados Unidos — Qualificação]<br>Circuit of the Americas - Austin, EUA,24,10,2026,,,
+🏎️ Formula 1 [Grande Prémio dos Estados Unidos — Corrida]<br>Circuit of the Americas - Austin, EUA,25,10,2026,,,
+⏱️ Formula 1 [Grande Prémio do México — Treino Livre 1]<br>Autódromo Hermanos Rodríguez - Cidade do México,30,10,2026,,,
+⏱️ Formula 1 [Grande Prémio do México — Treino Livre 2]<br>Autódromo Hermanos Rodríguez - Cidade do México,30,10,2026,,,
+⏱️ Formula 1 [Grande Prémio do México — Treino Livre 3]<br>Autódromo Hermanos Rodríguez - Cidade do México,31,10,2026,,,
+⏱️ Formula 1 [Grande Prémio do México — Qualificação]<br>Autódromo Hermanos Rodríguez - Cidade do México,31,10,2026,,,
+🏎️ Formula 1 [Grande Prémio do México — Corrida]<br>Autódromo Hermanos Rodríguez - Cidade do México,1,11,2026,,,
+⏱️ MotoGP [Grande Prémio da Malásia — Treino Livre 1]<br>Sepang International Circuit - Malásia,30,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Malásia — Treino cronometrado]<br>Sepang International Circuit - Malásia,30,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Malásia — Treino Livre 2]<br>Sepang International Circuit - Malásia,31,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Malásia — Qualificação Q1]<br>Sepang International Circuit - Malásia,31,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Malásia — Qualificação Q2]<br>Sepang International Circuit - Malásia,31,10,2026,,,
+🏍️ MotoGP [Grande Prémio da Malásia — Sprint]<br>Sepang International Circuit - Malásia,31,10,2026,,,
+⏱️ MotoGP [Grande Prémio da Malásia — Warm-up]<br>Sepang International Circuit - Malásia,1,11,2026,,,
+🏍️ MotoGP [Grande Prémio da Malásia — Corrida]<br>Sepang International Circuit - Malásia,1,11,2026,,,
+
+⏱️ Formula 1 [Grande Prémio de São Paulo — Treino Livre 1]<br>Autódromo José Carlos Pace - Interlagos, Brasil,6,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de São Paulo — Treino Livre 2]<br>Autódromo José Carlos Pace - Interlagos, Brasil,6,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de São Paulo — Treino Livre 3]<br>Autódromo José Carlos Pace - Interlagos, Brasil,7,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de São Paulo — Qualificação]<br>Autódromo José Carlos Pace - Interlagos, Brasil,7,11,2026,,,
+🏎️ Formula 1 [Grande Prémio de São Paulo — Corrida]<br>Autódromo José Carlos Pace - Interlagos, Brasil,8,11,2026,,,
+⏱️ MotoGP [Grande Prémio do Qatar — Treino Livre 1]<br>Lusail International Circuit - Qatar,6,11,2026,,,
+⏱️ MotoGP [Grande Prémio do Qatar — Treino cronometrado]<br>Lusail International Circuit - Qatar,6,11,2026,,,
+⏱️ MotoGP [Grande Prémio do Qatar — Treino Livre 2]<br>Lusail International Circuit - Qatar,7,11,2026,,,
+⏱️ MotoGP [Grande Prémio do Qatar — Qualificação Q1]<br>Lusail International Circuit - Qatar,7,11,2026,,,
+⏱️ MotoGP [Grande Prémio do Qatar — Qualificação Q2]<br>Lusail International Circuit - Qatar,7,11,2026,,,
+🏍️ MotoGP [Grande Prémio do Qatar — Sprint]<br>Lusail International Circuit - Qatar,7,11,2026,,,
+⏱️ MotoGP [Grande Prémio do Qatar — Warm-up]<br>Lusail International Circuit - Qatar,8,11,2026,,,
+🏍️ MotoGP [Grande Prémio do Qatar — Corrida]<br>Lusail International Circuit - Qatar,8,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de Las Vegas — Treino Livre 1]<br>Las Vegas Strip Circuit - EUA,19,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de Las Vegas — Treino Livre 2]<br>Las Vegas Strip Circuit - EUA,19,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de Las Vegas — Treino Livre 3]<br>Las Vegas Strip Circuit - EUA,20,11,2026,,,
+⏱️ Formula 1 [Grande Prémio de Las Vegas — Qualificação]<br>Las Vegas Strip Circuit - EUA,20,11,2026,,,
+🏎️ Formula 1 [Grande Prémio de Las Vegas — Corrida]<br>Las Vegas Strip Circuit - EUA,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Treino Livre 1]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,20,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Treino cronometrado]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,20,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Treino Livre 2]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Qualificação Q1]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Qualificação Q2]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Portugal — Sprint]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Warm-up]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,22,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Portugal — Corrida]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,22,11,2026,,,
+⏱️ Formula 1 [Grande Prémio do Qatar — Treino Livre 1]<br>Lusail International Circuit - Qatar,27,11,2026,,,
+⏱️ Formula 1 [Grande Prémio do Qatar — Treino Livre 2]<br>Lusail International Circuit - Qatar,27,11,2026,,,
+⏱️ Formula 1 [Grande Prémio do Qatar — Treino Livre 3]<br>Lusail International Circuit - Qatar,28,11,2026,,,
+⏱️ Formula 1 [Grande Prémio do Qatar — Qualificação]<br>Lusail International Circuit - Qatar,28,11,2026,,,
+🏎️ Formula 1 [Grande Prémio do Qatar — Corrida]<br>Lusail International Circuit - Qatar,29,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Treino Livre 1]<br>Circuit Ricardo Tormo - Valência, Espanha,27,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Treino cronometrado]<br>Circuit Ricardo Tormo - Valência, Espanha,27,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Treino Livre 2]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Qualificação Q1]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Qualificação Q2]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Valência — Sprint]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Warm-up]<br>Circuit Ricardo Tormo - Valência, Espanha,29,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Valência — Corrida]<br>Circuit Ricardo Tormo - Valência, Espanha,29,11,2026,,,
+
+⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Treino Livre 1]<br>Yas Marina Circuit - Emirados Árabes Unidos,4,12,2026,,,
+⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Treino Livre 2]<br>Yas Marina Circuit - Emirados Árabes Unidos,4,12,2026,,,
+⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Treino Livre 3]<br>Yas Marina Circuit - Emirados Árabes Unidos,5,12,2026,,,
+⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Qualificação]<br>Yas Marina Circuit - Emirados Árabes Unidos,5,12,2026,,,
+🏎️ Formula 1 [Grande Prémio de Abu Dhabi — Corrida]<br>Yas Marina Circuit - Emirados Árabes Unidos,6,12,2026,,,
