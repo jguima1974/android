@@ -1,1 +1,583 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+  >
+  <title>Política de Privacidade - Jorge Guimarães</title>
 
+  <style>
+    :root {
+      --bg-main: #07090d;
+      --bg-alt: #101722;
+      --line: rgba(255,255,255,0.10);
+      --text: #f7f7f2;
+      --muted: #a4b0c0;
+      --accent: #59d0ff;
+      --accent-2: #b388ff;
+      --card: rgba(255,255,255,0.045);
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-bottom: env(safe-area-inset-bottom, 0px);
+      --top-h: 72px;
+      --bottom-h: 78px;
+      --content-max: 900px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background:
+        radial-gradient(
+          circle at top left,
+          rgba(89,208,255,0.12),
+          transparent 35%
+        ),
+        radial-gradient(
+          circle at top right,
+          rgba(179,136,255,0.14),
+          transparent 30%
+        ),
+        linear-gradient(
+          160deg,
+          var(--bg-alt) 0%,
+          var(--bg-main) 100%
+        );
+      color: var(--text);
+      font-family: "Segoe UI", Arial, sans-serif;
+      overflow-x: hidden;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    body {
+      min-height: 100vh;
+      min-height: 100dvh;
+      padding-top: calc(var(--top-h) + var(--safe-top));
+      padding-bottom: calc(var(--bottom-h) + var(--safe-bottom));
+      position: relative;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background:
+        linear-gradient(
+          rgba(255,255,255,0.024) 1px,
+          transparent 1px
+        ),
+        linear-gradient(
+          90deg,
+          rgba(255,255,255,0.024) 1px,
+          transparent 1px
+        );
+      background-size: 34px 34px;
+      opacity: 0.16;
+    }
+
+    .topbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      height: calc(var(--top-h) + var(--safe-top));
+      padding-top: var(--safe-top);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-bottom: 1px solid var(--line);
+      background: rgba(7, 9, 13, 0.76);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    .brand {
+      max-width: 100%;
+      padding: 0 16px;
+      overflow: hidden;
+      text-align: center;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: #d8e1ea;
+      font-size: clamp(0.82rem, 1.5vw, 1rem);
+      font-weight: 600;
+      letter-spacing: clamp(0.14em, 0.5vw, 0.28em);
+      text-transform: uppercase;
+    }
+
+    .brand .initial {
+      color: #ffffff;
+      font-size: 1.12em;
+      font-weight: 800;
+    }
+
+    .wrap {
+      display: flex;
+      justify-content: center;
+      padding: clamp(14px, 3vw, 30px);
+    }
+
+    .panel {
+      width: min(100%, var(--content-max));
+      position: relative;
+      padding: clamp(8px, 2vw, 18px);
+    }
+
+    .hero {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .title {
+      margin: 0;
+      color: #ffffff;
+      font-size: clamp(1.75rem, 5vw, 3rem);
+      font-weight: 200;
+      letter-spacing: -0.04em;
+      line-height: 1.05;
+      text-shadow: 0 0 24px rgba(89,208,255,0.08);
+    }
+
+    .divider {
+      width: clamp(100px, 14vw, 145px);
+      height: 2px;
+      margin: 20px auto 16px;
+      border-radius: 999px;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        var(--accent),
+        var(--accent-2),
+        transparent
+      );
+    }
+
+    .subtitle {
+      margin: 0 auto;
+      max-width: 680px;
+      color: #dce5ef;
+      font-size: clamp(0.84rem, 2vw, 1rem);
+      line-height: 1.6;
+    }
+
+    .status {
+      display: inline-block;
+      margin-top: 17px;
+      padding: 9px 15px;
+      border: 1px solid rgba(89,208,255,0.34);
+      border-radius: 999px;
+      background: rgba(89,208,255,0.12);
+      color: #91e9ff;
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+
+    .card {
+      margin-top: 14px;
+      padding: clamp(16px, 3vw, 24px);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background: var(--card);
+      box-shadow: 0 14px 36px rgba(0,0,0,0.12);
+    }
+
+    h2 {
+      margin: 0 0 12px;
+      color: #ffffff;
+      font-size: clamp(1rem, 2.5vw, 1.22rem);
+      font-weight: 800;
+      letter-spacing: 0.01em;
+    }
+
+    p {
+      margin: 0 0 13px;
+      color: #dce5ef;
+      font-size: clamp(0.85rem, 2vw, 0.96rem);
+      line-height: 1.65;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 20px;
+      color: #dce5ef;
+    }
+
+    li {
+      margin: 8px 0;
+      font-size: clamp(0.84rem, 2vw, 0.95rem);
+      line-height: 1.5;
+    }
+
+    .notice {
+      margin-top: 14px;
+      padding: 15px;
+      border: 1px solid rgba(89,208,255,0.22);
+      border-radius: 14px;
+      background: rgba(89,208,255,0.07);
+      color: #dff7ff;
+      font-size: 0.9rem;
+      line-height: 1.55;
+    }
+
+    .apps {
+      display: grid;
+      gap: 9px;
+      margin-top: 12px;
+    }
+
+    .app-name {
+      padding: 12px 14px;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 13px;
+      background: rgba(255,255,255,0.025);
+      color: #eaf3fb;
+      font-size: 0.88rem;
+      font-weight: 700;
+    }
+
+    .contact {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+      padding: 11px 13px;
+      border: 1px solid rgba(179,136,255,0.34);
+      border-radius: 12px;
+      background: rgba(179,136,255,0.10);
+      color: #e4d7ff;
+      font-size: 0.88rem;
+      font-weight: 700;
+      overflow-wrap: anywhere;
+      text-decoration: none;
+    }
+
+    .contact:hover {
+      border-color: rgba(89,208,255,0.46);
+      color: #b9f2ff;
+    }
+
+    .last-update {
+      margin-top: 20px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      line-height: 1.5;
+      text-align: center;
+    }
+
+    .footer {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 120;
+      height: calc(var(--bottom-h) + var(--safe-bottom));
+      padding: 10px 16px calc(10px + var(--safe-bottom));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-top: 1px solid var(--line);
+      background: rgba(7, 9, 13, 0.76);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    .footer-text {
+      color: #9eabba;
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    @media (max-width: 430px) {
+      .card {
+        border-radius: 17px;
+      }
+
+      .app-name {
+        font-size: 0.82rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="initial">J</span>orge
+      <span class="initial">G</span>uimarães
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="panel">
+      <div class="hero">
+        <h1 class="title">Política de Privacidade</h1>
+
+        <div class="divider"></div>
+
+        <p class="subtitle">
+          Esta política explica como as aplicações desenvolvidas por
+          Jorge Guimarães tratam a privacidade dos seus utilizadores.
+        </p>
+
+        <div class="status">
+          Aplicações Informativas
+        </div>
+      </div>
+
+      <section class="card">
+        <h2>1. Responsável</h2>
+
+        <p>
+          O responsável pelas aplicações abrangidas por esta política é:
+        </p>
+
+        <p>
+          <strong>Jorge Guimarães</strong>
+        </p>
+
+        <p>
+          Para questões relacionadas com privacidade, pode utilizar o
+          contacto indicado no final desta página.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>2. Aplicações abrangidas</h2>
+
+        <p>
+          Esta política aplica-se às aplicações informativas desenvolvidas
+          por Jorge Guimarães, incluindo, entre outras:
+        </p>
+
+        <div class="apps">
+          <div class="app-name">
+            Centro Clínico Santos Ferreira
+          </div>
+
+          <div class="app-name">
+            Jorge Guimarães - All in One
+          </div>
+
+          <div class="app-name">
+            Restaurante Anastácia Marina
+          </div>
+
+          <div class="app-name">
+            Arquivo.pt
+          </div>
+        </div>
+
+        <p style="margin-top: 14px;">
+          Esta política também pode aplicar-se a futuras aplicações
+          informativas desenvolvidas pelo mesmo responsável, salvo se uma
+          aplicação apresentar uma política de privacidade própria.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>3. Dados pessoais</h2>
+
+        <div class="notice">
+          Estas aplicações não recolhem, não armazenam, não monitorizam,
+          não vendem e não partilham dados pessoais dos utilizadores.
+        </div>
+
+        <p style="margin-top: 14px;">
+          As aplicações destinam-se à disponibilização de informação,
+          conteúdos públicos, ligações úteis, agendas, dados de eventos,
+          páginas informativas e outros recursos de consulta.
+        </p>
+
+        <p>
+          Não são recolhidos dados como nome, morada, email, telefone,
+          contactos, fotografias, localização, histórico de navegação,
+          identificadores pessoais ou dados financeiros.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>4. Permissões e acesso ao dispositivo</h2>
+
+        <p>
+          As aplicações não foram concebidas para aceder a conteúdos
+          privados do dispositivo.
+        </p>
+
+        <ul>
+          <li>Não acedem aos contactos do utilizador</li>
+          <li>Não acedem a fotografias, vídeos ou ficheiros pessoais</li>
+          <li>Não utilizam a câmara</li>
+          <li>Não utilizam o microfone</li>
+          <li>Não acedem à localização do utilizador</li>
+          <li>Não leem SMS, chamadas ou registos telefónicos</li>
+          <li>Não acedem ao calendário pessoal do utilizador</li>
+          <li>Não recolhem dados de saúde ou dados financeiros</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>5. Internet e conteúdos externos</h2>
+
+        <p>
+          Algumas aplicações podem utilizar uma ligação à Internet para
+          apresentar informação pública atualizada, incluindo ficheiros de
+          dados, páginas públicas, agendas, horários, eventos ou links
+          externos.
+        </p>
+
+        <p>
+          Por exemplo, algumas aplicações podem ler ficheiros públicos em
+          formato CSV alojados online para atualizar conteúdos sem exigir
+          uma nova instalação da aplicação.
+        </p>
+
+        <p>
+          Estes ficheiros destinam-se exclusivamente a fornecer informação
+          pública à aplicação. Não são utilizados para identificar,
+          acompanhar ou criar perfis de utilizadores.
+        </p>
+
+        <p>
+          Quando um utilizador escolhe abrir um link externo, passa a
+          navegar num site ou serviço de terceiros. Esse site poderá ter
+          regras próprias de privacidade, cookies, estatísticas ou
+          tratamento de dados, pelos quais Jorge Guimarães não é
+          responsável.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>6. Cache local</h2>
+
+        <p>
+          Algumas aplicações podem guardar temporariamente informação
+          pública no dispositivo, através de cache local, para melhorar a
+          velocidade de carregamento ou permitir a consulta de conteúdos
+          previamente carregados quando não existe ligação à Internet.
+        </p>
+
+        <p>
+          Esta cache não contém dados pessoais enviados pelo utilizador e
+          pode ser eliminada ao limpar os dados da aplicação ou ao
+          desinstalá-la.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>7. Publicidade e vendas</h2>
+
+        <p>
+          As aplicações abrangidas por esta política não utilizam
+          publicidade personalizada nem foram concebidas para vender dados
+          pessoais.
+        </p>
+
+        <p>
+          As aplicações também não solicitam dados bancários, não processam
+          pagamentos e não exigem compras dentro da aplicação para aceder
+          aos conteúdos informativos disponibilizados.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>8. Contas e autenticação</h2>
+
+        <p>
+          As aplicações não exigem a criação de uma conta de utilizador,
+          nome de utilizador, password, autenticação por email ou login
+          para a consulta normal da informação.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>9. Estatísticas e monitorização</h2>
+
+        <p>
+          As aplicações não foram desenvolvidas com o objetivo de monitorizar
+          o comportamento individual dos utilizadores, criar perfis,
+          identificar pessoas ou acompanhar a utilização pessoal dentro da
+          aplicação.
+        </p>
+
+        <p>
+          As métricas gerais disponibilizadas por plataformas de distribuição,
+          como o Google Play Console, são geridas pela respetiva plataforma
+          e não constituem recolha direta de dados pessoais pelo responsável
+          das aplicações.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>10. Segurança</h2>
+
+        <p>
+          Embora as aplicações não recolham dados pessoais, são utilizadas
+          medidas razoáveis para evitar a inclusão de funcionalidades que
+          recolham, armazenem ou transmitam dados pessoais sem necessidade.
+        </p>
+
+        <p>
+          Os conteúdos públicos podem ser atualizados através de recursos
+          online destinados apenas à distribuição de informação.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>11. Alterações a esta política</h2>
+
+        <p>
+          Esta política poderá ser atualizada caso exista uma alteração
+          relevante nas funcionalidades das aplicações, nas ligações
+          externas utilizadas ou nas práticas relacionadas com privacidade.
+        </p>
+
+        <p>
+          A versão mais recente estará sempre disponível nesta página.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>12. Contacto</h2>
+
+        <p>
+          Para colocar dúvidas relacionadas com esta política de
+          privacidade, pode contactar:
+        </p>
+
+        <a
+          class="contact"
+          href="mailto:android.flanked638@passinbox.com"
+        >
+          android.flanked638@passinbox.com
+        </a>
+      </section>
+
+      <p class="last-update">
+        Última atualização: 16 de setembro de 2026
+      </p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-text">
+      Política de Privacidade · Jorge Guimarães
+    </div>
+  </footer>
+</body>
+</html>
