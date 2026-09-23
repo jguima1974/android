@@ -1,65 +1,41 @@
 competicao,nome_competicao,pergunta,opcao1,opcao2,opcao3,opcao4,resposta_correta
-euro2020,Euro 2020,Quem era o treinador da seleção nacional de Portugal no Euro 2020?,Fernando Santos,Roberto Martínez,Paulo Bento,Jorge Jesus,Fernando Santos
-euro2020,Euro 2020,Quem eliminou Portugal nos oitavos de final do Euro 2020?,Bélgica,França,Espanha,Croácia,Bélgica
-euro2020,Euro 2020,Qual destas estrelas foi capitão de Portugal no Euro 2020?,Cristiano Ronaldo,Bruno Fernandes,Rúben Dias,Bernardo Silva,Cristiano Ronaldo
+euro2020,Euro 2020,Quem era o selecionador de Portugal no Euro 2020?,Fernando Santos,Roberto Martínez,Paulo Bento,Jorge Jesus,Fernando Santos
+euro2020,Euro 2020,Que seleção eliminou Portugal nos oitavos de final do Euro 2020?,Bélgica,França,Espanha,Croácia,Bélgica
 euro2020,Euro 2020,Quantas seleções participaram no Euro 2020?,24,16,32,20,24
 euro2020,Euro 2020,Que seleção venceu o Euro 2020?,Itália,Inglaterra,Portugal,França,Itália
-euro2020,Euro 2020,Portugal integrou que grupo no Euro 2020?,Grupo F,Grupo A,Grupo C,Grupo H,Grupo F
-euro2020,Euro 2020,Contra que seleção Portugal venceu por 3-0 no Euro 2020?,Hungria,Alemanha,França,Bélgica,Hungria
-euro2020,Euro 2020,Quem marcou dois golos por Portugal no jogo com a Hungria no Euro 2020?,Cristiano Ronaldo,Diogo Jota,Bruno Fernandes,Renato Sanches,Cristiano Ronaldo
-nations2019,Liga das Nações 2019,Quem era o treinador da seleção nacional de Portugal na Liga das Nações 2019?,Fernando Santos,Roberto Martínez,Paulo Bento,Carlos Queiroz,Fernando Santos
-nations2019,Liga das Nações 2019,Quem venceu a primeira Liga das Nações da UEFA?,Portugal,Holanda,França,Espanha,Portugal
-nations2019,Liga das Nações 2019,Quem marcou o golo da vitória de Portugal na final da Liga das Nações 2019?,Gonçalo Guedes,Cristiano Ronaldo,Bernardo Silva,Bruno Fernandes,Gonçalo Guedes
-nations2019,Liga das Nações 2019,Que seleção Portugal derrotou na final da Liga das Nações 2019?,Holanda,Suíça,Inglaterra,Croácia,Holanda
-nations2019,Liga das Nações 2019,Em que país decorreu a fase final da Liga das Nações 2019?,Portugal,França,Holanda,Alemanha,Portugal
-nations2019,Liga das Nações 2019,Quem marcou um hat-trick por Portugal frente à Suíça na meia-final da Liga das Nações 2019?,Cristiano Ronaldo,João Félix,Gonçalo Guedes,Bernardo Silva,Cristiano Ronaldo
-nations2019,Liga das Nações 2019,Em que cidade se jogou a final da Liga das Nações 2019?,Porto,Lisboa,Braga,Guimarães,Porto
+euro2020,Euro 2020,Em que grupo ficou Portugal no Euro 2020?,Grupo F,Grupo A,Grupo C,Grupo H,Grupo F
+euro2020,Euro 2020,Que jogador marcou dois golos contra a Hungria no Euro 2020?,Cristiano Ronaldo,Diogo Jota,Bruno Fernandes,Renato Sanches,Cristiano Ronaldo
+nations2019,Liga das Nações 2019,Quem era o selecionador de Portugal na Liga das Nações 2019?,Fernando Santos,Roberto Martínez,Paulo Bento,Carlos Queiroz,Fernando Santos
+nations2019,Liga das Nações 2019,Quem venceu a primeira edição da Liga das Nações da UEFA?,Portugal,Países Baixos,França,Espanha,Portugal
+nations2019,Liga das Nações 2019,Quem marcou o golo da vitória de Portugal na final?,Gonçalo Guedes,Cristiano Ronaldo,Bernardo Silva,Bruno Fernandes,Gonçalo Guedes
+nations2019,Liga das Nações 2019,Que seleção Portugal derrotou na final?,Países Baixos,Suíça,Inglaterra,Croácia,Países Baixos
+nations2019,Liga das Nações 2019,Em que cidade se disputou a final?,Porto,Lisboa,Braga,Guimarães,Porto
 nations2019,Liga das Nações 2019,Que organismo organiza a Liga das Nações?,UEFA,FIFA,FPF,IFAB,UEFA
-mundial2022,Mundial 2022,Quem era o treinador da seleção nacional de Portugal no Mundial 2022?,Fernando Santos,Roberto Martínez,Paulo Sousa,José Mourinho,Fernando Santos
-mundial2022,Mundial 2022,Quem eliminou Portugal nos quartos de final do Mundial 2022?,Marrocos,França,Argentina,Croácia,Marrocos
-mundial2022,Mundial 2022,Em que país decorreu o Mundial 2022?,Qatar,Rússia,EUA,Brasil,Qatar
-mundial2022,Mundial 2022,Quem marcou um hat-trick por Portugal frente à Suíça no Mundial 2022?,Gonçalo Ramos,Cristiano Ronaldo,Bruno Fernandes,João Félix,Gonçalo Ramos
-mundial2022,Mundial 2022,Em que fase terminou Portugal o Mundial 2022?,Quartos de final,Meias-finais,Final,Oitavos de final,Quartos de final
-mundial2022,Mundial 2022,Que seleção defrontou Portugal nos oitavos de final do Mundial 2022?,Suíça,Uruguai,Coreia do Sul,Marrocos,Suíça
-mundial2022,Mundial 2022,Que jogador português marcou de penálti frente ao Gana no Mundial 2022?,Cristiano Ronaldo,Bruno Fernandes,Bernardo Silva,João Félix,Cristiano Ronaldo
+mundial2022,Mundial 2022,Quem era o selecionador de Portugal no Mundial 2022?,Fernando Santos,Roberto Martínez,Paulo Sousa,José Mourinho,Fernando Santos
+mundial2022,Mundial 2022,Que seleção eliminou Portugal nos quartos de final?,Marrocos,França,Argentina,Croácia,Marrocos
+mundial2022,Mundial 2022,Em que país se realizou o torneio?,Qatar,Rússia,EUA,Brasil,Qatar
+mundial2022,Mundial 2022,Quem marcou três golos frente à Suíça?,Gonçalo Ramos,Cristiano Ronaldo,Bruno Fernandes,João Félix,Gonçalo Ramos
+mundial2022,Mundial 2022,Em que fase terminou Portugal?,Quartos de final,Meias-finais,Final,Oitavos de final,Quartos de final
+mundial2022,Mundial 2022,Que seleção Portugal defrontou nos oitavos de final?,Suíça,Uruguai,Coreia do Sul,Marrocos,Suíça
+mundial2022,Mundial 2022,Que jogador português marcou de penálti frente ao Gana?,Cristiano Ronaldo,Bruno Fernandes,Bernardo Silva,João Félix,Cristiano Ronaldo
 mundial2022,Mundial 2022,Que seleção venceu o Mundial 2022?,Argentina,França,Marrocos,Brasil,Argentina
-euro2024,Euro 2024,Quem era o treinador da seleção nacional de Portugal no Euro 2024?,Roberto Martínez,Fernando Santos,Paulo Bento,Jorge Jesus,Roberto Martínez
-euro2024,Euro 2024,Em que país decorreu o Euro 2024?,Alemanha,França,Itália,Espanha,Alemanha
-euro2024,Euro 2024,Quem eliminou Portugal nos quartos de final do Euro 2024?,França,Espanha,Alemanha,Bélgica,França
-euro2024,Euro 2024,Em que fase terminou Portugal o Euro 2024?,Quartos de final,Meias-finais,Final,Oitavos de final,Quartos de final
-euro2024,Euro 2024,Quem era o capitão de Portugal no Euro 2024?,Cristiano Ronaldo,Bruno Fernandes,Rúben Dias,Bernardo Silva,Cristiano Ronaldo
-euro2024,Euro 2024,Portugal fez uma fase de grupos perfeita no Euro 2024?,Sim,Não,Só com empates,Ainda não tinha começado,Sim
-euro2024,Euro 2024,Que seleção Portugal venceu por 3-0 na fase de grupos do Euro 2024?,Turquia,Chéquia,Geórgia,França,Turquia
-euro2024,Euro 2024,Quem falhou a grande penalidade por Portugal no prolongamento contra a Eslovénia?,Cristiano Ronaldo,Bruno Fernandes,Bernardo Silva,João Félix,Cristiano Ronaldo
-nations2025,Liga das Nações 2025,Quem era o treinador da seleção nacional de Portugal na Liga das Nações 2025?,Roberto Martínez,Fernando Santos,Paulo Bento,Sérgio Conceição,Roberto Martínez
+euro2024,Euro 2024,Quem era o selecionador de Portugal?,Roberto Martínez,Fernando Santos,Paulo Bento,Jorge Jesus,Roberto Martínez
+euro2024,Euro 2024,Em que país se realizou o Euro 2024?,Alemanha,França,Itália,Espanha,Alemanha
+euro2024,Euro 2024,Que seleção eliminou Portugal nos quartos de final?,França,Espanha,Alemanha,Bélgica,França
+euro2024,Euro 2024,Em que fase terminou Portugal?,Quartos de final,Meias-finais,Final,Oitavos de final,Quartos de final
+euro2024,Euro 2024,Quem era o capitão de Portugal?,Cristiano Ronaldo,Bruno Fernandes,Rúben Dias,Bernardo Silva,Cristiano Ronaldo
+euro2024,Euro 2024,Portugal venceu os três jogos da fase de grupos?,Sim,Não,Só venceu dois,Empatou todos,Sim
+euro2024,Euro 2024,Que seleção Portugal venceu por 3-0?,Turquia,Chéquia,Geórgia,França,Turquia
+euro2024,Euro 2024,Quem falhou o penálti durante o prolongamento contra a Eslovénia?,Cristiano Ronaldo,Bruno Fernandes,Bernardo Silva,João Félix,Cristiano Ronaldo
+nations2025,Liga das Nações 2025,Quem era o selecionador de Portugal?,Roberto Martínez,Fernando Santos,Paulo Bento,Sérgio Conceição,Roberto Martínez
 nations2025,Liga das Nações 2025,Portugal conquistou a Liga das Nações 2025?,Sim,Não,Só chegou à meia-final,Não participou,Sim
-nations2025,Liga das Nações 2025,Que seleção Portugal defrontou na final da Liga das Nações 2025?,Espanha,França,Alemanha,Croácia,Espanha
-nations2025,Liga das Nações 2025,A final da Liga das Nações 2025 foi decidida de que forma?,Grandes penalidades,Prolongamento com golo de ouro,Jogo repetido,Sorteio,Grandes penalidades
-nations2025,Liga das Nações 2025,Cristiano Ronaldo marcou na final da Liga das Nações 2025?,Sim,Não,Só no desempate,Não jogou,Sim
-nations2025,Liga das Nações 2025,Que país recebeu a fase final da Liga das Nações 2025?,Alemanha,Portugal,França,Espanha,Alemanha
-nations2025,Liga das Nações 2025,Portugal venceu a Liga das Nações 2025 antes ou depois do Euro 2024?,Depois,Antes,No mesmo mês,No mesmo ano civil antes do Europeu,Depois
-nations2025,Liga das Nações 2025,Quem foi o selecionador português no ciclo após o Mundial 2022?,Roberto Martínez,Fernando Santos,Carlos Queiroz,Paulo Sousa,Roberto Martínez
-mundial2026,Mundial 2026,Quantas seleções vão participar no Mundial 2026?,48,32,24,64,48
+nations2025,Liga das Nações 2025,Que seleção Portugal defrontou na final?,Espanha,França,Alemanha,Croácia,Espanha
+nations2025,Liga das Nações 2025,Como foi decidida a final?,Grandes penalidades,Prolongamento com golo de ouro,Jogo repetido,Sorteio,Grandes penalidades
+nations2025,Liga das Nações 2025,Cristiano Ronaldo marcou na final?,Sim,Não,Só no desempate,Não jogou,Sim
+nations2025,Liga das Nações 2025,Em que país decorreu a fase final?,Alemanha,Portugal,França,Espanha,Alemanha
+mundial2026,Mundial 2026,Quantas seleções participarão no Mundial 2026?,48,32,24,64,48
 mundial2026,Mundial 2026,Quais países organizam o Mundial 2026?,EUA, Canadá e México,Portugal, Espanha e Marrocos,Brasil, Argentina e Uruguai,Qatar, Arábia Saudita e EAU,EUA, Canadá e México
-mundial2026,Mundial 2026,Quem era o treinador de Portugal no ciclo recente para o Mundial 2026?,Roberto Martínez,Fernando Santos,Paulo Bento,Nuno Espírito Santo,Roberto Martínez
-mundial2026,Mundial 2026,Portugal tinha entrada automática no Mundial 2026 por ser anfitrião?,Não,Sim,Só para o play-off,Só para a fase de grupos,Não
-mundial2026,Mundial 2026,O Mundial 2026 vai usar um formato alargado de equipas?,Sim,Não,Só na qualificação,Ainda não se sabe,Sim
-mundial2026,Mundial 2026,Em que ano se realiza o Mundial 2026?,2026,2025,2027,2030,2026
-mundial2026,Mundial 2026,O Mundial 2026 será organizado por quantos países?,3,2,1,4,3
-mundial2026,Mundial 2026,Que entidade organiza o Mundial 2026?,FIFA,UEFA,CONMEBOL,FPF,FIFA
-euro2028,Euro 2028,Quem vai organizar o Euro 2028?,Reino Unido e Irlanda,Alemanha,Portugal e Espanha,França,Reino Unido e Irlanda
-euro2028,Euro 2028,Que entidade atribuiu a organização do Euro 2028?,UEFA,FIFA,IFAB,FPF,UEFA
-euro2028,Euro 2028,Quem era o treinador de Portugal no ciclo recente apontado para o Euro 2028?,Roberto Martínez,Fernando Santos,Paulo Bento,José Mourinho,Roberto Martínez
-euro2028,Euro 2028,Portugal é anfitrião do Euro 2028?,Não,Sim,Só da final,Só da abertura,Não
-euro2028,Euro 2028,O Euro 2028 pertence a que confederação?,UEFA,FIFA,AFC,CAF,UEFA
-euro2028,Euro 2028,Quantas seleções costumam disputar o Europeu no formato atual?,24,16,32,48,24
-euro2028,Euro 2028,O Euro 2028 acontece antes ou depois do Mundial 2026?,Depois,Antes,No mesmo ano,No mesmo mês,Depois
-euro2028,Euro 2028,O Reino Unido e a Irlanda foram escolhidos oficialmente para acolher o Euro 2028?,Sim,Não,Só parcialmente,Ainda não,Sim
-mundial2030,Mundial 2030,Portugal é um dos anfitriões do Mundial 2030?,Sim,Não,Só do jogo inaugural,Só da final,Sim
-mundial2030,Mundial 2030,Que outro país ibérico vai coorganizar o Mundial 2030 com Portugal?,Espanha,França,Itália,Alemanha,Espanha
-mundial2030,Mundial 2030,Quem atribuiu a organização do Mundial 2030?,FIFA,UEFA,CONMEBOL,FPF,FIFA
-mundial2030,Mundial 2030,O Mundial 2030 será organizado por Portugal sozinho?,Não,Sim,Só na Europa,Só na fase final,Não
-mundial2030,Mundial 2030,Em que ano decorrerá o Mundial 2030?,2030,2029,2032,2028,2030
-mundial2030,Mundial 2030,Portugal será anfitrião do Mundial 2030 em conjunto com Espanha e Marrocos?,Sim,Não,Só Espanha,Só Marrocos,Sim
-mundial2030,Mundial 2030,Que competição mundial de seleções será organizada em Portugal em 2030?,Mundial 2030,Euro 2030,Liga das Nações 2030,Mundial de Clubes 2030,Mundial 2030
-mundial2030,Mundial 2030,O Mundial 2030 decorre depois do Euro 2028?,Sim,Não,No mesmo ano,No ano anterior,Sim
+mundial2026,Mundial 2026,O Mundial 2026 terá um formato de 48 seleções?,Sim,Não,Só na qualificação,Ainda não se sabe,Sim
+mundial2030,Mundial 2030,Portugal será um dos anfitriões do Mundial 2030?,Sim,Não,Só do jogo inaugural,Só da final,Sim
+mundial2030,Mundial 2030,Que país ibérico coorganizará o Mundial 2030 com Portugal?,Espanha,França,Itália,Alemanha,Espanha
+mundial2030,Mundial 2030,Portugal, Espanha e Marrocos serão anfitriões do Mundial 2030?,Sim,Não,Só Espanha,Só Marrocos,Sim
