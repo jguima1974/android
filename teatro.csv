@@ -1,102 +1,50 @@
-status,titulo,local,data,icon,inicio,fim
-# METADADOS DA BASE DE DADOS,,,,,,
-# Criado em,16/09/2026 18:00,,,,,
-# Data base,16/09/2026,,,,,
-# Período,2026-09-09 a 2026-12-14,90 dias,,,,
-# Fontes,Programações oficiais e bilheteiras dos espaços indicados,,,,,
-# Total peças,106,,,,,
-# Formato,status | titulo | local | data | icon | inicio (YYYY-MM-DD) | fim (YYYY-MM-DD),,,,,
-,,,,,,
-now,Chicago - O Musical,Teatro Politeama - Lisboa,Até Setembro,🎷,2026-06-01,2026-09-30
-now,Carmen Miranda - O Musical,Teatro Politeama - Lisboa,Até Outubro,💃,2026-05-15,2026-10-15
-now,A Peça que Dá para o Torto,Casino Lisboa,Até Setembro,📉,2026-06-10,2026-09-20
-now,Lar Doce Lar,Teatro Villaret - Lisboa,Até Outubro,🏡,2026-07-01,2026-10-31
-now,O Principezinho,Teatro da Trindade - Lisboa,Sáb e Dom,🌹,2026-05-01,2026-10-31
-now,ImprovMix,Fábrica Braço de Prata - Lisboa,Quintas-feiras,🎤,2026-06-01,2026-10-31
-now,IA.COMédia,Teatro Independente de Oeiras,Até Setembro,🤖,2026-06-01,2026-09-30
-now,Zorro - O Musical,Teatro Tivoli - Lisboa,Até Setembro,🗡️,2026-07-01,2026-09-20
-next,A Ratoeira - Agatha Christie,Teatro Maria Matos - Lisboa,Em exibição a partir de 01/09,🐭,2026-09-01,2026-11-15
-now,As Bodas de Fígaro,Teatro Nacional S. Carlos - Lisboa,15/09 a 15/10,🎻,2026-09-15,2026-10-15
-now,Esperando Godot,Teatro Viriato - Viseu,10/09 a 25/09,⏳,2026-09-10,2026-09-25
-next,Um Elétrico Chamado Desejo,Teatro Circo - Braga,01/10 a 20/10,🚋,2026-10-01,2026-10-20
-next,A Dama das Camélias,Teatro Lethes - Faro,08/10 a 25/10,🌸,2026-10-08,2026-10-25
-now,Sexo e a Idade,Casino Lisboa,15/09 a 15/11,🗓️,2026-09-15,2026-11-15
-next,Macbeth,Teatro Aveirense - Aveiro,18/09 a 05/10,🗡️,2026-09-18,2026-10-05
-next,O Pai,Teatro das Figuras - Faro,25/09 a 10/10,👴,2026-09-25,2026-10-10
-next,Romeu e Julieta,Teatro Garcia de Resende - Évora,02/10 a 20/10,❤️,2026-10-02,2026-10-20
-next,Morte de um Caixeiro Viajante,Teatro Micaelense - Ponta Delgada,12/10 a 25/10,💼,2026-10-12,2026-10-25
-next,Baile de Máscaras,Coliseu Porto Ageas,20/09 a 05/10,🎭,2026-09-20,2026-10-05
-next,O Misantropo,Teatro Diogo Bernardes - Ponte de Lima,05/10 a 18/10,🤨,2026-10-05,2026-10-18
-next,Sr. Engenheiro - O Musical,Coliseu Porto Ageas,10/09 a 10/10,🏗️,2026-09-10,2026-10-10
-next,O Cerejal,Teatro Nacional D. Maria II - Lisboa,01/10 a 10/11,🌳,2026-10-01,2026-11-10
-next,Hamlet,Teatro Nacional São João - Porto,15/10 a 15/11,💀,2026-10-15,2026-11-15
-next,Rei Lear,Teatro Municipal de Bragança,22/10 a 05/11,👑,2026-10-22,2026-11-05
-now,A Flauta Mágica,Teatro Baltazar Dias - Funchal,05/09 a 20/09,🎶,2026-09-05,2026-09-20
-next,Yerma,Teatro de Vila Real,18/09 a 02/10,🏜️,2026-09-18,2026-10-02
-next,West Side Story,Coliseu de Elvas,25/09 a 10/10,🏙️,2026-09-25,2026-10-10
-next,Cyrano de Bergerac,Teatro Municipal de Ourém,02/10 a 15/10,👃,2026-10-02,2026-10-15
-next,O Corcunda de Notre Dame,Fórum Luísa Todi - Setúbal,10/10 a 25/10,🔔,2026-10-10,2026-10-25
-next,Woyzeck,Teatro das Beiras - Covilhã,15/10 a 30/10,🔪,2026-10-15,2026-10-30
-next,Seis Personagens à Procura de Autor,Teatro Municipal de Beja,08/10 a 22/10,👥,2026-10-08,2026-10-22
-next,Hedda Gabler,Teatro Municipal de Matosinhos,05/10 a 20/10,🔫,2026-10-05,2026-10-20
-now,O Barbeiro de Sevilha,Teatro Pax Julia - Beja,12/09 a 25/09,🪒,2026-09-12,2026-09-25
-next,Um Inimigo do Povo,Teatro Stephens - Marinha Grande,20/09 a 05/10,🌊,2026-09-20,2026-10-05
-next,Salomé,Cine-Teatro de Estarreja,01/10 a 15/10,🌖,2026-10-01,2026-10-15
-next,Medeia,Cine-Teatro Sobral Monte Agraço,10/10 a 22/10,🗡️,2026-10-10,2026-10-22
-next,Lisístrata,Fórum Cultural de Ermesinde,15/10 a 30/10,🕊️,2026-10-15,2026-10-30
-now,Bodas de Sangue,Teatro José Lúcio da Silva - Leiria,18/09 a 02/10,🍷,2026-09-18,2026-10-02
-next,Fausto,CAE - Figueira da Foz,25/09 a 10/10,🕯️,2026-09-25,2026-10-10
-next,A Importância de ser Ernesto,Auditório de Penafiel,02/10 a 15/10,🧐,2026-10-02,2026-10-15
-next,Édipo Rei,Auditório de Mirandela,10/10 a 22/10,👁️,2026-10-10,2026-10-22
-next,Don Juan,Teatro Municipal Castelo Branco,16/10 a 30/10,🌹,2026-10-16,2026-10-30
-next,A Comédia dos Erros,Teatro Cinema de Fafe,22/10 a 05/11,🤪,2026-10-22,2026-11-05
-next,Muito Barulho por Nada,Cine-Teatro Paraíso - Tomar,28/10 a 10/11,🗣️,2026-10-28,2026-11-10
-next,Noite de Reis,Teatro Ribeiro Conceição - Lamego,05/11 a 20/11,🧥,2026-11-05,2026-11-20
-now,Sr. Camões - Terra à Vista,Teatro Sá da Bandeira - Porto,15/09 a 20/10,🚢,2026-09-15,2026-10-20
-now,Otelo,Teatro Municipal de Vila do Conde,08/09 a 22/09,🖤,2026-09-08,2026-09-22
-next,A Pequena Sereia,Teatro das Figuras - Faro,01/10 a 15/10,🧜‍♀️,2026-10-01,2026-10-15
-now,Gisberta,Teatro S. Luiz - Lisboa,12/09 a 28/09,🏳️‍⚧️,2026-09-12,2026-09-28
-next,O Musical da Disney,Altice Arena - Lisboa,10/10 a 18/10,🏰,2026-10-10,2026-10-18
-next,A Menina do Mar,Auditório de Espinho,20/09 a 05/10,🐚,2026-09-20,2026-10-05
-next,Os Maias - A Peça,Teatro Sá da Bandeira - Porto,15/10 a 15/11,🎓,2026-10-15,2026-11-15
-now,Memorial do Convento,Teatro da Malaposta - Odivelas,05/09 a 25/09,🏗️,2026-09-05,2026-09-25
-next,Auto da Compadecida,Teatro Taborda - Lisboa,12/10 a 30/10,⛪,2026-10-12,2026-10-30
-next,Gata em Telhado de Zinco Quente,Teatro Municipal de Almada,20/09 a 10/10,🐱,2026-09-20,2026-10-10
-now,A Varanda de Fradiquinho,Teatro das Beiras - Covilhã,15/09 a 30/09,🏠,2026-09-15,2026-09-30
-next,O Gato Malhado e a Andorinha Sinhá,Teatro Municipal de Bragança,12/10 a 25/10,🐱,2026-10-12,2026-10-25
-next,A Bilha Quebrada,Teatro Cine de Pombal,05/10 a 18/10,🏺,2026-10-05,2026-10-18
-now,Terror e Miséria no III Reich,Teatro da Rainha - Caldas da Rainha,15/09 a 30/09,⛓️,2026-09-15,2026-09-30
-next,O Velho da Horta,Teatro Municipal da Covilhã,02/10 a 15/10,🥕,2026-10-02,2026-10-15
-next,Tio Vânia,Teatro Virgínia - Torres Novas,01/10 a 15/10,👴,2026-10-01,2026-10-15
-next,As Criadas,Teatro Diogo Bernardes - Ponte de Lima,15/10 a 28/10,🧹,2026-10-15,2026-10-28
-next,O Mar,Teatro Municipal de Portimão,20/09 a 05/10,🌊,2026-09-20,2026-10-05
-next,O Labirinto,Fórum Cultural de Alcochete,05/10 a 18/10,🌀,2026-10-05,2026-10-18
-next,Aurora,Teatro Maria Matos - Lisboa,15/10 a 15/11,🌅,2026-10-15,2026-11-15
-next,Noite de Estreia,Teatro S. Luiz - Lisboa,22/10 a 10/11,🌟,2026-10-22,2026-11-10
-next,Ensaio sobre a Cegueira,Teatro Nacional São João - Porto,25/10 a 20/11,👓,2026-10-25,2026-11-20
-now,O Bando de S. Pancrácio,Teatro da Comuna - Lisboa,10/09 a 28/09,🛡️,2026-09-10,2026-09-28
-next,A Farsa de Inês Pereira,Teatro Cine de Gouveia,01/10 a 15/10,💍,2026-10-01,2026-10-15
-next,Antígona,TAGV - Coimbra,01/10 a 15/10,🏛️,2026-10-01,2026-10-15
-next,Um Elétrico Chamado Desejo,Teatro Municipal de Chaves,10/10 a 22/10,🚋,2026-10-10,2026-10-22
-next,O Quebra-Nozes,Teatro Municipal de Portimão,01/11 a 15/11,🎄,2026-11-01,2026-11-15
-now,A Castro,Convento S. Francisco - Coimbra,15/09 a 30/09,🩸,2026-09-15,2026-09-30
-next,Frei Luís de Sousa,Teatro Baltazar Dias - Funchal,01/10 a 18/10,📜,2026-10-01,2026-10-18
-now,O Doente Imaginário,Teatro Municipal da Guarda,10/09 a 25/09,🤒,2026-09-10,2026-09-25
-now,A Noite,Teatro da Malaposta - Odivelas,18/09 a 05/10,🌙,2026-09-18,2026-10-05
-next,Check-In,Teatro Sá de Miranda - Viana do Castelo,25/09 a 10/10,✈️,2026-09-25,2026-10-10
-next,Pinóquio,CCB - Lisboa,01/10 a 25/10,🪵,2026-10-01,2026-10-25
-next,Macbeth Experimental,Teatro Micaelense - Ponta Delgada,15/10 a 30/10,🗡️,2026-10-15,2026-10-30
-now,O Auto da Índia,Teatro Municipal de Portimão,05/09 a 20/09,🇮🇳,2026-09-05,2026-09-20
-now,Fachabor!,Teatro Sá da Bandeira - Porto,12/09 a 05/10,🏫,2026-09-12,2026-10-05
-next,Zoo Story,Teatro da Comuna - Lisboa,20/09 a 10/10,🐵,2026-09-20,2026-10-10
-next,Os Maias,Teatro Rivoli - Porto,05/10 a 20/10,📚,2026-10-05,2026-10-20
-now,O Gaiteiro de Hamelin,Teatro Municipal de Vila Real,12/09 a 25/09,🪈,2026-09-12,2026-09-25
-next,As Fenícias,Teatro Municipal de Bragança,08/10 a 20/10,⚔️,2026-10-08,2026-10-20
-next,Medeia em Corinto,Cine-Teatro de Estarreja,15/10 a 28/10,🏛️,2026-10-15,2026-10-28
-next,A Vida de Galileu,Teatro Viriato - Viseu,01/11 a 15/11,🔭,2026-11-01,2026-11-15
-next,O Tartufo,Teatro Sá de Miranda - Viana do Castelo,08/11 a 22/11,⛪,2026-11-08,2026-11-22
-next,As Troianas,Teatro das Figuras - Faro,05/10 a 18/10,🔥,2026-10-05,2026-10-18
-next,Prometeu Acorrentado,Teatro Aveirense - Aveiro,12/10 a 25/10,⛓️,2026-10-12,2026-10-25
-next,Electra,Teatro Garcia de Resende - Évora,20/10 a 02/11,⚡,2026-10-20,2026-11-02
-next,O Revisor,Teatro Micaelense - Ponta Delgada,01/11 a 15/11,📜,2026-11-01,2026-11-15
-next,A Vida é Sonho,Teatro Baltazar Dias - Funchal,08/11 a 22/11,💭,2026-11-08,2026-11-22
+# METADADOS DA BASE DE DADOS
+
+# Criado em
+2026-10-01T00:00:00Z
+
+# Data base
+2026-10-01
+
+# Período
+2026-10-01 a 2026-12-30 (próximos 90 dias)
+
+# Fontes
+Time Out Lisboa; Cartaz Cultural Lisboa; Observador; Teatro Municipal do Porto (Rivoli/Campo Alegre); Teatro Nacional São João; Teatro Maria Matos; Teatro São Luiz; TNDM II; Teatro Sá da Bandeira; Teatro Viriato
+
+# Total peças
+28
+
+# Formato
+status | titulo | local | data | icon | inicio (YYYY-MM-DD) | fim (YYYY-MM-DD)
+
+# REGISTOS
+
+now | Superstar | Teatro Armando Cortez | Até 1 Nov | ⭐ | 2026-09-10 | 2026-11-01
+now | Caminho do Céu | Teatro São Luiz | Até 31 Out | 🎭 | 2026-09-18 | 2026-10-31
+now | Rosaline, a ex de Romeu | Casino de Lisboa | Até 4 Out | 💘 | 2026-09-23 | 2026-10-04
+now | Ensaio sobre a Lucidez | Tenda do Chapitô | Até 25 Out | 🗳️ | 2026-09-25 | 2026-10-25
+now | Liberdade, Mulher de Abril 2 | Teatro Cinearte | Até 4 Out | 🌹 | 2026-09-26 | 2026-10-04
+now | Macbeth | Teatro Nacional D. Maria II | Até 31 Out | 👑 | 2026-10-01 | 2026-10-31
+now | Gargalhadas na Lua | Casa do Coreto (Carnide) | Até 3 Out | 🤡 | 2026-10-01 | 2026-10-03
+now | Ópera-Pimba! | Teatro A Comuna | Até 4 Out | 🎤 | 2026-10-01 | 2026-10-04
+now | Contos em Viagem – Goa | Teatro Meridional | Até 1 Nov | 🧭 | 2026-10-01 | 2026-11-01
+now | Jantar de Idiotas | Centro Cultural Malaposta | Até 1 Nov | 🍽️ | 2026-10-01 | 2026-11-01
+now | Pura Loucura | Teatro Maria Matos | Até 15 Nov | 🔍 | 2026-10-01 | 2026-11-15
+now | Mais Longe Que a Coisa Mais Longe | Teatro Paulo Claro | Até 31 Out | 🌋 | 2026-10-01 | 2026-10-31
+now | Quando Menos se Espera | Teatro Tivoli BBVA | Até 1 Out | 🎲 | 2026-10-01 | 2026-10-01
+now | Clube dos Poetas Mortos | Teatro da Trindade | Em cena | 📖 | 2026-10-01 | 2026-12-30
+next | O Avesso da Pele | Digressão / Várias Salas | Estreia 2 Out | ✊ | 2026-10-02 | 2026-10-17
+next | O Mundo Mágico do Tudo Bem | Teatro Viriato | Estreia 2 Out | 🎪 | 2026-10-02 | 2026-10-02
+next | Uma Casa, com Certeza | Teatro da Trindade | Estreia 2 Out | 🏠 | 2026-10-02 | 2026-11-16
+next | Come From Away | Cineteatro Capitólio | Estreia 2 Out | ✈️ | 2026-10-02 | 2026-12-30
+next | Mil Vezes Revista | Teatro Politeama | Estreia 8 Out | 🎉 | 2026-10-08 | 2026-11-29
+next | Laissez-Faire | Centro Cultural de Belém | Estreia 9 Out | 💼 | 2026-10-09 | 2026-10-11
+next | Acontece Camões | Teatro Taborda | Estreia 9 Out | 📜 | 2026-10-09 | 2026-10-10
+next | As Telefones | Teatro Variedades | Estreia 9 Out | ☎️ | 2026-10-09 | 2026-10-11
+next | Os Miseráveis | Teatro Carlos Alberto | Estreia 11 Out | 🪆 | 2026-10-11 | 2026-10-13
+next | Cock | Teatro Maria Matos | Estreia 12 Out | 💔 | 2026-10-12 | 2026-11-10
+next | Happy New Lear | Teatro Cinearte | Estreia 14 Out | 👴 | 2026-10-14 | 2026-12-13
+next | Os Cegos | CAL – Centro de Artes de Lisboa | Estreia 15 Out | 🌑 | 2026-10-15 | 2026-10-30
+next | Auto da Barca do Inferno | Teatro Nacional São João | Estreia Novembro | ⚓ | 2026-11-01 | 2026-11-30
+next | Afro Saloyá | Teatro Rivoli | Estreia 6 Nov | 🥁 | 2026-11-06 | 2026-11-07
