@@ -1,35 +1,40 @@
-# METADADOS DA BASE DE DADOS
-# Criado em,2026-10-03T03:04:58.838Z
+# Criado em,2026-10-03T03:08:07.523Z
 # Data base,2026-10-03
-# Período,2026-10-03 a 2026-12-31 (próximos 90 dias)
-# Fontes,Time Out Lisboa; Cartaz Cultural Lisboa; Observador; TNSJ; Teatro Maria Matos; Teatro São Luiz; TNDM II; Teatro Viriato; Rivoli
+# Período,2026-10-03 a 2027-01-01 (próximos 90 dias)
+# Fontes,Time Out Lisboa;Cartaz Cultural Lisboa;Observador;NiT;RTP;Comunidade Cultura e Arte;TVI;Viseu Now;Correio do Ribatejo;Teatro Municipal do Porto;New in Porto
 # Formato,status,titulo,local,data,icon,inicio,fim
 status,titulo,local,data,icon,inicio,fim
-now,Superstar,Teatro Armando Cortez - Lisboa,Até 1 Nov,⭐,2026-09-10,2026-11-01
+now,Come From Away,Teatro Capitólio - Lisboa,Até 4 Out,✈️,2026-09-10,2026-10-04
+now,Superstar,Teatro Armando Cortez - Lisboa,Até 11 Out,⭐,2026-09-10,2026-10-11
+now,Macbeth,Teatro Nacional D. Maria II - Lisboa,Até 31 Out,👑,2026-09-18,2026-10-31
 now,Caminho do Céu,Teatro São Luiz - Lisboa,Até 31 Out,🎭,2026-09-18,2026-10-31
-now,Rosaline a ex de Romeu,Casino de Lisboa - Lisboa,Até 4 Out,💘,2026-09-23,2026-10-04
+now,"Rosaline, a ex de Romeu",Casino de Lisboa - Lisboa,Até 4 Out,💘,2026-09-23,2026-10-04
 now,Ensaio sobre a Lucidez,Tenda do Chapitô - Lisboa,Até 25 Out,🗳️,2026-09-25,2026-10-25
-now,Liberdade Mulher de Abril 2,Teatro Cinearte - Lisboa,Até 4 Out,🌹,2026-09-26,2026-10-04
-now,Macbeth,Teatro Nacional D. Maria II - Lisboa,Até 31 Out,👑,2026-10-01,2026-10-31
-now,Gargalhadas na Lua,Casa do Coreto (Carnide) - Lisboa,Até 3 Out,🤡,2026-10-01,2026-10-03
+now,"Liberdade, Mulher de Abril 2",Teatro Cinearte - Lisboa,Até 4 Out,🌹,2026-09-26,2026-10-04
+now,Gargalhadas na Lua,Casa do Coreto - Lisboa,Até 3 Out,🤡,2026-10-01,2026-10-03
 now,Ópera-Pimba!,Teatro A Comuna - Lisboa,Até 4 Out,🎤,2026-10-01,2026-10-04
+now,"Uma Casa, com Certeza",Teatro da Trindade - Lisboa,Até 25 Out,🏠,2026-10-01,2026-10-25
 now,Contos em Viagem – Goa,Teatro Meridional - Lisboa,Até 1 Nov,🧭,2026-10-01,2026-11-01
-now,Jantar de Idiotas,Centro Cultural Malaposta - Odivelas,Até 1 Nov,🍽️,2026-10-01,2026-11-01
-now,Pura Loucura,Teatro Maria Matos - Lisboa,Até 15 Nov,🔍,2026-10-01,2026-11-15
-now,Mais Longe Que a Coisa Mais Longe,Teatro Paulo Claro - Lisboa,Até 31 Out,🌋,2026-10-01,2026-10-31
-now,Quando Menos se Espera,Teatro Tivoli BBVA - Lisboa,Até 1 Out,🎲,2026-10-01,2026-10-01
-now,Clube dos Poetas Mortos,Teatro da Trindade - Lisboa,Em cena,📖,2026-10-01,2026-12-31
-next,O Avesso da Pele,Digressão / Várias Salas,Estreia 2 Out,✊,2026-10-02,2026-10-17
-next,O Mundo Mágico do Tudo Bem,Teatro Viriato - Viseu,Estreia 2 Out,🎪,2026-10-02,2026-10-02
-next,"Uma Casa com Certeza",Teatro da Trindade - Lisboa,Estreia 2 Out,🏠,2026-10-02,2026-11-16
-next,Come From Away,Cineteatro Capitólio - Lisboa,Estreia 2 Out,✈️,2026-10-02,2026-12-31
+now,Quando Menos se Espera,Teatro Tivoli BBVA - Lisboa,Até 8 Nov,🎲,2026-10-01,2026-11-08
+now,O Avesso da Pele,Digressão / Várias Salas,Até 17 Out,✊,2026-10-02,2026-10-17
+now,Mais Longe Que a Coisa Mais Longe,Teatro Paulo Claro - Lisboa,Até 17 Out,🌋,2026-10-02,2026-10-17
+now,Jantar de Idiotas,Centro Cultural Malaposta - Lisboa,Até 2 Nov,🍽️,2026-10-02,2026-11-02
+now,Pura Loucura,Teatro Maria Matos - Lisboa,Até 16 Nov,🔍,2026-10-02,2026-11-16
+now,Clube dos Poetas Mortos,Teatro da Trindade - Lisboa,Até 1 Jan,📖,2026-10-02,2027-01-01
+next,Sumário: Auto da Barca do Inferno,Teatro Nacional D. Maria II - Lisboa,Estreia 8 Out,⚓,2026-10-08,2026-10-31
 next,Mil Vezes Revista,Teatro Politeama - Lisboa,Estreia 8 Out,🎉,2026-10-08,2026-11-29
-next,Laissez-Faire,Centro Cultural de Belém - Lisboa,Estreia 9 Out,💼,2026-10-09,2026-10-11
 next,Acontece Camões,Teatro Taborda - Lisboa,Estreia 9 Out,📜,2026-10-09,2026-10-10
+next,Laissez-Faire,Centro Cultural de Belém - Lisboa,Estreia 9 Out,💼,2026-10-09,2026-10-11
 next,As Telefones,Teatro Variedades - Lisboa,Estreia 9 Out,☎️,2026-10-09,2026-10-11
 next,Os Miseráveis,Teatro Carlos Alberto - Porto,Estreia 11 Out,🪆,2026-10-11,2026-10-13
 next,Cock,Teatro Maria Matos - Lisboa,Estreia 12 Out,💔,2026-10-12,2026-11-10
 next,Happy New Lear,Teatro Cinearte - Lisboa,Estreia 14 Out,👴,2026-10-14,2026-12-13
-next,Os Cegos,CAL – Centro de Artes de Lisboa - Lisboa,Estreia 15 Out,🌑,2026-10-15,2026-10-30
-next,Auto da Barca do Inferno,Teatro Nacional São João - Porto,Estreia Novembro,⚓,2026-11-01,2026-11-30
-next,Afro Saloyá,Teatro Rivoli - Porto,Estreia 6 Nov,🥁,2026-11-06,2026-11-07
+next,Os Cegos,CAL - Centro de Artes de Lisboa - Lisboa,Estreia 15 Out,🌑,2026-10-15,2026-10-30
+next,"Nós, Sozinhas",Teatro Sá da Bandeira - Santarém,Estreia 16 Out,♀,2026-10-16,2026-10-16
+next,Dois + Dois,Teatro Villaret - Lisboa,Estreia 17 Out,💞,2026-10-17,2027-01-01
+next,Desassossego,Teatro Camões - Lisboa,Estreia 22 Out,💃,2026-10-22,2026-11-01
+next,Under the Shape of a Tree I Sat and Wept,Teatro São Luiz - Lisboa,Estreia 23 Out,🌳,2026-10-23,2026-10-25
+next,Em Silêncio,Teatro São Luiz - Lisboa,Estreia 24 Out,🤫,2026-10-24,2026-11-01
+next,Afro Saloyá,Teatro Rivoli - Porto,Estreia Novembro,🥁,2026-11-01,2026-11-30
+next,Caminho do Céu,Teatro Viriato - Viseu,Estreia 6 Nov,🎭,2026-11-06,2026-11-06
+next,Quando Menos se Espera,Teatro Sá da Bandeira - Porto,Estreia 11 Nov,🎲,2026-11-11,2026-11-29
