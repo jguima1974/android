@@ -1,19 +1,6 @@
-#ATUALIZACAO: 2 Outubro 2026,,,,,,
-#JANELA_APLICADA: 24/09/2026 a 05/04/2027,,,,,,
-#GERADO_POR: Vibe AI (Mistral AI) — atualização assistida por IA; datas verificadas em fontes oficiais,,,,,,
-,,,,,,
-Feira de São Mateus<br>Viseu,6,8,2026,21,9,2026
-GSE EXPO - Aviation Support<br>FIL - Lisboa,15,9,2026,17,9,2026
-Sigur Rós<br>Campo Pequeno - Lisboa,17,9,2026,,,
-Marisa Monte<br>MEO Arena - Lisboa,18,9,2026,,,
-Marisa Monte<br>Super Bock Arena - Porto,20,9,2026,,,
-Cerimónia da Bola de Ouro 2026<br>Paris - Transmissão,21,9,2026,,,
-Início do Outono 18:44<br>Portugal,22,9,2026,,,
-Leadership Summit Portugal<br>Casino Estoril,24,9,2026,,,
-Placebo 30th Anniversary Tour<br>Campo Pequeno - Lisboa,29,9,2026,,,
-SBC Summit<br>FIL - Lisboa,29,9,2026,1,10,2026
-Pagamento AIMI<br>Autoridade Tributária,30,9,2026,,,
-Rádio Macau<br>Coliseu dos Recreios - Lisboa,30,9,2026,,,
+#ATUALIZACAO: 4 Outubro 2026 (por Mistral),,,,,,
+#JANELA_APLICADA: 01/10/2026 a 03/12/2026,,,,,,
+#GERADO_POR: Vibe AI Mistral AI,,,,,,
 ,,,,,,
 Transvision Vamp<br>Hard Club - Porto,1,10,2026,,,
 STE 2026 - Science Tech Education<br>FEUP - Porto,1,10,2026,2,10,2026
@@ -29,6 +16,9 @@ DIRE STRAITS LEGACY | Europa Tour 2026<br>Campo Pequeno - Lisboa,10,10,2026,,,
 Dias Templários de Tomar<br>Tomar,10,10,2026,11,10,2026
 Gilberto Gil<br>Coliseu dos Recreios - Lisboa,10,10,2026,,,
 Djavan - 50 Anos, Só Sucessos<br>MEO Arena - Lisboa,11,10,2026,,,
+Lens vs Sporting - Champions League (2ª jornada)<br>França,13,10,2026,14,10,2026
+Bétis vs FC Porto - Champions League (2ª jornada)<br>Sevilha - Espanha,13,10,2026,14,10,2026
+Rádio Macau<br>Coliseu Porto Ageas,15,10,2026,,,
 Startalk Live!<br>Sala Tejo MEO Arena - Lisboa,15,10,2026,,,
 Simplesmente Roupa Nova<br>Campo Pequeno - Lisboa,15,10,2026,,,
 Roupa Nova Tour 2026<br>Super Bock Arena - Porto,16,10,2026,,,
@@ -37,17 +27,25 @@ Rui Veloso Trio<br>Campo Pequeno - Lisboa,17,10,2026,,,
 RFM - Que Grandioso Espetáculo é Este?<br>Super Bock Arena - Porto,17,10,2026,,,
 Aniversário Jorge Guimarães<br>Portugal,18,10,2026,,,
 Segurex<br>FIL - Lisboa,20,10,2026,22,10,2026
+Sporting vs LASK - Champions League (3ª jornada)<br>Estádio José Alvalade - Lisboa,20,10,2026,21,10,2026
+FIMAP<br>Exponor - Matosinhos,21,10,2026,24,10,2026
 Fontaines D.C.<br>MEO Arena - Lisboa,21,10,2026,,,
-Laura Pausini IO Canto World Tour<br>MEO Arena - Lisboa,22,10,2026,,,
+Laura Pausini IO CANTO World Tour<br>MEO Arena - Lisboa,22,10,2026,,,
 Beer in Lisbon 2026<br>Campo Pequeno - Lisboa,23,10,2026,25,10,2026
 Cê Tá Doido - Humberto & Ronaldo, Panda, Ícaro & Gilmar<br>Super Bock Arena - Porto,23,10,2026,,,
 Titãs<br>Super Bock Arena - Porto,23,10,2026,,,
+Jungle<br>MEO Arena - Lisboa,24,10,2026,,,
 Némanus<br>Super Bock Arena - Porto,24,10,2026,,,
+Rita Redshoes<br>Casa da Música - Porto,24,10,2026,,,
+Concertos Promenade - Carta Branca a Miguel Araújo<br>Coliseu Porto Ageas,25,10,2026,,,
 Mudança para Hora de Inverno 02:00<br>Portugal,25,10,2026,,,
+Adriana Calcanhotto<br>Teatro Tivoli - Lisboa,26,10,2026,,,
+Adriana Calcanhotto<br>Casa da Música - Porto,27,10,2026,,,
 Anastacia NTK Tour<br>Campo Pequeno - Lisboa,27,10,2026,,,
 Fleet Europe Days<br>FIL - Lisboa,27,10,2026,28,10,2026
 LOGIPACK<br>FIL - Lisboa,27,10,2026,29,10,2026
-FIMAP<br>Exponor - Matosinhos,21,10,2026,24,10,2026
+Rita Redshoes<br>Teatro Maria Matos - Lisboa,28,10,2026,,,
+Viviane<br>Casa da Música - Porto,28,10,2026,,,
 André Rieu e a sua Orquestra Johann Strauss<br>MEO Arena - Lisboa,29,10,2026,31,10,2026
 MEO COMMEDIA À LA CARTE FEST'26 - REBENTA A BOLHA<br>Campo Pequeno - Lisboa,30,10,2026,,,
 Samhain Fire Fest<br>Sintra,30,10,2026,1,11,2026
@@ -58,83 +56,55 @@ Carmen de Bizet<br>Centro Cultural de Belém - Lisboa,1,11,2026,,,
 MEO COMMEDIA À LA CARTE FEST'26 - JERRY SEINFELD<br>MEO Arena - Lisboa,1,11,2026,,,
 Pitbull - I'm Back!<br>MEO Arena - Lisboa,2,11,2026,,,
 Duran Duran<br>MEO Arena - Lisboa,3,11,2026,,,
-Fingertips<br>Super Bock Arena - Porto,6,11,2026,,,
+Shakhtar Donetsk vs Sporting - Champions League (4ª jornada)<br>Ucrânia,3,11,2026,4,11,2026
 EXPOALIMENTA e EXPOCARNE<br>Exponor - Matosinhos,4,11,2026,6,11,2026
 Millennium Portugal Exportador<br>Europarque - Santa Maria da Feira,4,11,2026,,,
+Fingertips<br>Super Bock Arena - Porto,6,11,2026,,,
+Os Quatro e Meia - Tour Interior<br>Europarque - Santa Maria da Feira,6,11,2026,,,
 Feira Nacional do Cavalo<br>Golegã,6,11,2026,15,11,2026
-Aniversário Arquivo.pt<br>Portugal,7,11,2026,,,
-Canta-me uma História – ao vivo<br>Super Bock Arena - Porto,7,11,2026,,,
+Madeira Ladies Open W50<br>Quinta Magnólia - Funchal,8,11,2026,15,11,2026
 Web Summit<br>FIL - Lisboa,9,11,2026,12,11,2026
 The Last Internationale<br>LAV - Lisboa,10,11,2026,,,
 Arlo Parks<br>LAV - Lisboa,11,11,2026,,,
+Em Casa d'Amália - O Concerto ao Vivo<br>Coliseu Porto Ageas,12,11,2026,13,11,2026
 Cat Power<br>Campo Pequeno - Lisboa,13,11,2026,,,
 Feira de Chocolate<br>Grândola,13,11,2026,15,11,2026
 Gipsy Kings by Diego Baliardo<br>Multiusos de Guimarães,13,11,2026,,,
+Rubel - BELEZA. Rubel e Violão<br>Coliseu dos Recreios - Lisboa,13,11,2026,,,
+Os Quatro e Meia - Tour Interior<br>Centro Cultural de Viana do Castelo,13,11,2026,,,
 Tony Carreira<br>Super Bock Arena - Porto,14,11,2026,,,
+Os Quatro e Meia - Tour Interior<br>Multiusos de Guimarães,14,11,2026,,,
+Portugal vs Noruega - UEFA Nations League (5ª jornada)<br>Portugal,14,11,2026,,,
 Music Circus Show on Ice com Frozen<br>Super Bock Arena - Porto,15,11,2026,,,
 Amon Amarth<br>MEO Arena - Lisboa,15,11,2026,,,
 Bryan Adams<br>Super Bock Arena - Porto,17,11,2026,,,
 Joe Jackson<br>Casa da Música - Porto,17,11,2026,,,
+País de Gales vs Portugal - UEFA Nations League (6ª jornada)<br>Cardiff - País de Gales,17,11,2026,,,
 Bryan Adams<br>Super Bock Arena - Porto,18,11,2026,,,
 Joe Jackson<br>Aula Magna - Lisboa,18,11,2026,,,
+Concreta 2026<br>Exponor - Matosinhos,18,11,2026,21,11,2026
 Lisboa Games Week<br>FIL - Lisboa,19,11,2026,22,11,2026
+Rubel - BELEZA. Rubel e Violão<br>Coliseu Porto Ageas,19,11,2026,,,
 Bryan Adams<br>MEO Arena - Lisboa,20,11,2026,,,
 This is Michael<br>Campo Pequeno - Lisboa,20,11,2026,,,
+Rádio Macau<br>Centro Cultural Olga Cadaval - Sintra,20,11,2026,,,
 Bryan Adams<br>MEO Arena - Lisboa,21,11,2026,,,
 David Fonseca<br>Super Bock Arena - Porto,21,11,2026,,,
 Némanus<br>Campo Pequeno - Lisboa,21,11,2026,,,
+Em Casa d'Amália - O Concerto ao Vivo<br>Coliseu dos Recreios - Lisboa,21,11,2026,,,
+Os Vizinhos<br>Coliseu Porto Ageas,21,11,2026,,,
+Rubel - BELEZA. Rubel e Violão<br>Convento São Francisco - Coimbra,21,11,2026,,,
+Taça de Portugal - 4ª Eliminatória<br>Portugal,21,11,2026,22,11,2026
 Dia Nacional da Cultura Científica<br>Ensino Superior,24,11,2026,,,
+Sporting vs Manchester United - Champions League (5ª jornada)<br>Estádio José Alvalade - Lisboa,24,11,2026,25,11,2026
 Óbidos Vila Natal<br>Cerca do Castelo - Óbidos,27,11,2026,3,1,2027
 Hatsune Miku - Miku Expo 2026 Europe<br>Campo Pequeno - Lisboa,27,11,2026,,,
+Ganso<br>Hard Club - Porto,27,11,2026,,,
+Mark Delman<br>Coliseu dos Recreios - Lisboa,27,11,2026,,,
 David Fonseca<br>Campo Pequeno - Lisboa,28,11,2026,,,
 Freya Skye - Stars Align Tour<br>Sala Tejo MEO Arena - Lisboa,28,11,2026,,,
-Madeira Ladies Open W50<br>Quinta Magnólia - Funchal,8,11,2026,15,11,2026
 Tony Carreira<br>MEO Arena - Lisboa,28,11,2026,,,
-Concreta 2026<br>Exponor - Matosinhos,18,11,2026,21,11,2026
 Os Vizinhos<br>Coliseu dos Recreios - Lisboa,28,11,2026,,,
+Só 3 em 1 - João Só, Tiago Nogueira e Miguel Araújo<br>Fórum da Maia,28,11,2026,,,
 ,,,,,,
 Festas de Natal e Fim de Ano da Madeira<br>Funchal,1,12,2026,7,1,2027
-Dia Mundial da Preservação Digital<br>Iniciativa internacional do DPC,4,12,2026,,,
-Patrulha Pata ao Vivo - Heróis Unidos<br>Super Bock Arena - Porto,5,12,2026,,,
-The Beatles Symphonic Fantasy<br>Campo Pequeno - Lisboa,5,12,2026,,,
-Sara Correia 21:30<br>Super Bock Arena - Porto,7,12,2026,,,
-Iolanda<br>Coliseu dos Recreios - Lisboa,7,12,2026,,,
-Aniversário BAD<br>Portugal,8,12,2026,,,
-Sara Correia 18:00<br>Super Bock Arena - Porto,8,12,2026,,,
-Patrulha Pata ao Vivo - Heróis Unidos<br>MEO Arena - Lisboa,8,12,2026,,,
-João Só e Tiago Nogueira<br>Coliseu dos Recreios - Lisboa,11,12,2026,,,
-6ª Gala dos Sonhos<br>Campo Pequeno - Lisboa,12,12,2026,,,
-Richie Campbell<br>MEO Arena - Lisboa,12,12,2026,,,
-Macy Gray<br>Grande Auditório - Braga,19,12,2026,,,
-Xmas in the Night - Reunião de Família<br>MEO Arena - Lisboa,19,12,2026,,,
-Panda e os Caricas - Mundo da Magia<br>Campo Pequeno - Lisboa,19,12,2026,20,12,2026
-Macy Gray<br>Aula Magna - Lisboa,20,12,2026,,,
-Panda e os Caricas - Mundo da Magia<br>Super Bock Arena - Porto,26,12,2026,27,12,2026
-,,,,,,
-António Zambujo e Miguel Araújo<br>Coliseu Porto Ageas,6,1,2027,9,1,2027
-Cantar os Reis<br>Funchal - Madeira,5,1,2027,,,
-Cirque du Soleil - OVO<br>Super Bock Arena - Porto,6,1,2027,10,1,2027
-Exponoivos<br>MEO Arena - Lisboa,9,1,2027,10,1,2027
-Lisbon Film Orchestra - Our Stories<br>Super Bock Arena - Porto,16,1,2027,,,
-Bullet for My Valentine + Pendulum<br>Campo Pequeno - Lisboa,21,1,2027,,,
-Amanhã Não Está CertO - Pedro Teixeira da Mota<br>MEO Arena - Lisboa,29,1,2027,30,1,2027
-Optimista Céptico<br>Super Bock Arena - Porto,30,1,2027,,,
-,,,,,,
-Festa do Chocolate<br>Matosinhos,6,2,2027,21,2,2027
-Carnaval - Terça-feira de Entrudo<br>Portugal,9,2,2027,,,
-Batalha das Limas - Carnaval de Ponta Delgada<br>Ponta Delgada - Açores,9,2,2027,,,
-Feira do Chocolate<br>Loulé,12,2,2027,21,2,2027
-Amanhã Não Está CertO - Pedro Teixeira da Mota<br>Super Bock Arena - Porto,18,2,2027,20,2,2027
-Dominguinho<br>Super Bock Arena - Porto,21,2,2027,,,
-Buba Espinho<br>MEO Arena - Lisboa,27,2,2027,,,
-Dominguinho<br>Campo Pequeno - Lisboa,27,2,2027,,,
-,,,,,,
-Optimista Céptico<br>Campo Pequeno - Lisboa,6,3,2027,,,
-Carolina Deslandes<br>MEO Arena - Lisboa,6,3,2027,,,
-Soraia Ramos<br>Campo Pequeno - Lisboa,12,3,2027,,,
-Nena<br>Super Bock Arena - Porto,13,3,2027,,,
-Hybrid Theory - O Legado de Chester Bennington<br>MEO Arena - Lisboa,20,3,2027,,,
-Início da Primavera 20:24<br>Portugal,20,3,2027,,,
-Nelson Freitas Legacy<br>MEO Arena - Lisboa,27,3,2027,,,
-,,,,,,
-Simple Minds European Tour<br>Super Bock Arena - Porto,5,4,2027,,,
