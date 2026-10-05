@@ -1,0 +1,34 @@
+ALM 02 — essencial
+O ALM 02 trata da videovigilância (CCTV/CFTV) e do seu enquadramento legal. A ideia central é que as câmaras apoiam a prevenção, deteção e análise de ocorrências, mas o uso é fortemente limitado pela proteção de dados.
+
+O que decorar
+CCTV = Closed Circuit Television; CFTV = Circuito Fechado de Televisão.
+A videovigilância apoia a deteção de incidentes, a prevenção e a análise posterior de ocorrências.
+Portaria n.º 273/2013 (alterada pela 292/2020): 4 graus de segurança nos sistemas de alarme (EN 50131-1).
+Alarme válido: verificação sequencial de sinais, videovigilância, áudio ou verificação pessoal.
+Um sistema de videovigilância não é só câmaras e monitores: inclui gravação e equipamentos de apoio.
+Câmaras Speed Dome (PTZ): Pan (horizontal), Tilt (vertical) e Zoom.
+
+Regras legais (Lei n.º 46/2019 e proteção de dados)
+Afixação de aviso de videovigilância é obrigatória (informar captação, entidade responsável e onde exercer direitos).
+Câmaras ocultas são, regra geral, proibidas na segurança privada.
+Imagens conservadas, em regra, por um máximo de 30 dias (setor bancário: até 90 dias).
+Após o prazo, as imagens são destruídas no prazo máximo de 48 horas.
+Gravação de som é proibida sem autorização da CNPD.
+Registo de acessos às imagens gravadas é obrigatório (quem viu e quando).
+Acesso às imagens restrito, protegido por palavra-passe, a quem tem legitimidade funcional.
+Consultar/apagar imagens a pedido do cliente ou partilhar nas redes sociais: proibido.
+Proibido usar CCTV para controlar o desempenho laboral.
+Proibido instalar câmaras em casas de banho/balneários ou viradas para a via pública (salvo exceções raras).
+
+Operação
+O horário registado nas imagens deve estar correto — essencial para prova legal.
+O vigilante verifica se as câmaras estão limpas e a focar corretamente (manutenção preventiva).
+
+Truques para verdadeiro/falso
+Se admitir câmaras ocultas, som sem autorização, casas de banho ou via pública, é falsa.
+Se disser que as imagens se guardam mais de 30 dias (salvo bancos até 90), é falsa.
+Se valorizar sinalização, registo de acessos e restrição de consulta, é verdadeira.
+
+Mini-resumo para decorar
+CCTV é o sistema; 4 graus (EN 50131-1); alarme válido por verificação sequencial, vídeo, áudio ou pessoal; imagens até 30 dias (bancos 90), destruídas em 48 horas; som exige autorização da CNPD; avisos visíveis e registo de acessos obrigatórios; nunca espiar trabalhadores nem apagar imagens a pedido do cliente.

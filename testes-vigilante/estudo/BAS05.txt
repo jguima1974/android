@@ -1,0 +1,515 @@
+BAS05 — essencial
+O BAS05 centra-se em duas áreas: comunicação e elaboração de relatórios no contexto da segurança privada. O que mais tende a sair em teste é a diferença entre elementos da comunicação, tipos de comunicação, barreiras ou ruídos, regras para uma comunicação eficaz e características de um bom relatório de ocorrência.
+​
+
+No trabalho do vigilante, comunicar bem e registar bem é essencial, porque a informação tem de ser clara, útil, cronológica e compreensível para colegas, supervisores, clientes e até autoridades.
+​
+
+O que decorar
+Comunicação é partilha de informação entre emissor e recetor.
+​
+
+Os elementos da comunicação são emissor, recetor, mensagem, código, canal, referente e feedback.
+​
+
+Pode existir ruído em qualquer fase do processo comunicativo.
+​
+
+Na segurança privada, a difusão de informação pode ser verbal, visual, eletrónica e escrita.
+​
+
+O relatório de ocorrências faz parte das atribuições do vigilante.
+​
+
+Elementos da comunicação
+Tens de saber bem isto, porque é matéria clássica de verdadeiro ou falso:
+
+Emissor: quem envia a mensagem.
+​
+
+Recetor: quem recebe a mensagem.
+​
+
+Mensagem: o conteúdo transmitido.
+​
+
+Código: sistema de sinais usado, como língua portuguesa, imagens ou gestos.
+​
+
+Canal: meio por onde a mensagem passa, como voz, telefone, rádio, email ou papel.
+​
+
+Referente: contexto ou situação a que a mensagem se refere.
+​
+Aqui tens o essencial do BAS05 para estudar hoje e, a seguir, uma série de perguntas do mesmo género do teste com resposta incluída.
+
+BAS05 — essencial
+O BAS05 centra-se em duas áreas: comunicação e elaboração de relatórios. Para teste, o que mais costuma importar é saber os elementos da comunicação, as barreiras ou ruídos, os princípios de comunicação eficaz, os métodos de registo e as regras para fazer um relatório de ocorrências.
+​
+
+Na segurança privada, comunicar bem e registar bem não é detalhe administrativo: faz parte da função do vigilante. O manual diz que o registo e a difusão de informações são funções críticas e que o vigilante deve ser conciso, profissional, exato e breve.
+​
+
+O que tens de decorar
+Comunicação é partilha e transmissão de mensagens entre emissor e recetor.
+​
+
+Os elementos da comunicação são emissor, recetor, mensagem, código, canal, referente, feedback e ruído.
+​
+
+A comunicação pode ser verbal, não verbal ou mista.
+​
+
+O feedback confirma ao emissor que a mensagem foi captada.
+​
+
+O ruído é qualquer interferência que diminua a eficácia da comunicação.
+​
+
+Também tens de saber:
+
+Na comunicação face a face são importantes escuta ativa, clarificação, reformulação e feedback.
+​
+
+Um relatório deve ser objetivo, conciso, completo e conclusivo.
+​
+
+O relatório deve responder a: Quando, Onde, Quem, O quê, Como.
+​
+
+Deve ser redigido rapidamente após a ocorrência, com linguagem simples, clara, objetiva e precisa.
+​
+
+Elementos da comunicação
+Estes são dos pontos mais perguntáveis:
+
+Emissor: quem envia a mensagem.
+​
+
+Recetor: quem recebe a mensagem.
+​
+
+Mensagem: o conteúdo transmitido.
+​
+
+Código: conjunto de sinais usados, como língua portuguesa, gestos ou imagens.
+​
+
+Canal: meio por onde a mensagem passa, como voz, telefone, rádio ou internet.
+​
+
+Referente: contexto ou situação a que a mensagem se refere.
+​
+
+Feedback: resposta que mostra que a mensagem foi entendida.
+​
+
+Ruído: falha, distração, problema técnico ou diferença cultural que atrapalha a comunicação.
+​
+
+Exemplo simples: num posto de segurança, o vigilante fala ao rádio; ele é o emissor, a mensagem é o aviso, o código é a linguagem usada, o canal é o rádio, o colega é o recetor, a confirmação é o feedback, e uma interferência no som é ruído.
+​
+
+Comunicação eficaz
+O manual destaca várias técnicas:
+
+Escuta ativa.
+​
+
+Feedback.
+​
+
+Clarificação, por exemplo “Pode dar um exemplo?”.
+​
+
+Reformulação, para resumir ou parafrasear o que foi dito.
+​
+
+Também refere soluções para problemas de comunicação:
+
+Agir rápido quando algo está errado.
+​
+
+Ser claro e objetivo.
+​
+
+Definir o fluxo de informação.
+​
+
+Usar estratégias diferentes quando necessário, como bilhete escrito, desenho ou fala, desde que a mensagem chegue.
+​
+
+Um dado importante para memorizar é este: ao longo do trajeto, perde-se perto de 70% da informação, e essa perda pode ser ainda maior ao telefone por faltar apoio da comunicação não verbal.
+​
+
+Relatórios
+O relatório de ocorrências ou relatório de atividade diária é um dos documentos mais importantes em segurança privada. O manual define-o como uma exposição escrita, minuciosa e circunstanciada de factos ocorridos durante o turno ou numa ocorrência específica.
+​
+
+Na prática, o relatório serve para descrever assaltos, detenções, acidentes, incêndios, danos, desacatos e outras situações relevantes. Também pode referir avarias, insuficiência de meios ou outros dados importantes para a execução do serviço.
+​
+
+Como fazer um bom relatório
+Características principais:
+
+Objetivo: só dados concretos e evidências, sem suposições.
+​
+
+Conciso: apenas o necessário para perceber a situação.
+​
+
+Completo: sem omissões relevantes.
+​
+
+Conclusivo: não deve deixar dúvidas sobre o que aconteceu e o que foi feito.
+​
+
+Requisitos práticos:
+
+Redigir o mais rapidamente possível após a ocorrência.
+​
+
+Usar linguagem simples e direta.
+​
+
+Evitar linguagem familiar, salvo em citações.
+​
+
+Evitar abreviaturas; se forem usadas, devem ser explicadas.
+​
+
+Evitar opiniões sem provas.
+​
+
+Assinar sempre o relatório.
+​
+
+Se tiver mais do que uma folha, numerar e rubricar todas, assinando a última.
+​
+
+Usar horas em formato de 24 horas.
+​
+
+Estrutura a decorar
+O relatório deve responder sempre a estas perguntas:
+
+Quando? — data e hora dos factos.
+​
+
+Onde? — local exato da ocorrência.
+​
+
+Quem? — identificação dos intervenientes.
+​
+
+O quê? — o que aconteceu.
+​
+
+Como? — descrição pormenorizada da ocorrência.
+​
+
+O manual explica ainda que:
+
+As quatro primeiras perguntas aparecem normalmente no cabeçalho ou no 1.º parágrafo.
+​
+
+O “Como?” desenvolve o 2.º parágrafo com o detalhe dos factos.
+​
+
+O 3.º parágrafo pode servir para conclusão, danos, recomendações e soluções para evitar repetição da situação.
+​
+
+Informação adicional que pode surgir:
+
+Porquê?
+​
+
+Consequências?
+​
+
+Solução?
+​
+
+Registos e comunicações
+Os métodos de difusão de informação referidos no manual são:
+
+Difusão verbal.
+​
+
+Difusão visual.
+​
+
+Difusão eletrónica.
+​
+
+Difusão escrita.
+​
+
+Entre os registos importantes estão:
+
+Registo de chamadas telefónicas.
+​
+
+Registo das revistas.
+​
+
+Registo de movimentação de chaves.
+​
+
+Registo de visitantes.
+​
+
+Registo de viaturas.
+​
+
+Registo de perdidos e achados.
+​
+
+Rádio
+Na comunicação por rádio, para haver comunicação entre emissor e recetor, ambos têm de operar na mesma frequência ou canal.
+​
+
+Regras importantes:
+
+Identificar-se pelo indicativo de serviço.
+​
+
+Chamar a central pelo seu indicativo.
+​
+
+Esperar que a comunicação seja reconhecida antes de transmitir a mensagem.
+​
+
+Ser breve.
+​
+
+Usar alfabeto fonético quando necessário.
+​
+
+Confirmar que a mensagem foi entendida.
+​
+
+A comunicação termina por quem a inicia.
+​
+
+Evitar conversas desnecessárias ao rádio.
+​
+
+Perguntas do mesmo género
+Verdadeiro ou Falso
+Os elementos da comunicação incluem emissor, recetor, mensagem, código, canal, referente, feedback e ruído. — Verdadeiro.
+​
+
+O feedback é uma interferência que impede a comunicação. — Falso. O feedback é a resposta que confirma a receção da mensagem.
+​
+
+O ruído pode ocorrer em qualquer fase do processo comunicativo. — Verdadeiro.
+​
+
+A comunicação na segurança privada pode ser verbal, visual, eletrónica e escrita. — Verdadeiro.
+​
+
+A perda de informação ao longo do processo comunicativo pode aproximar-se dos 70%. — Verdadeiro.
+​
+
+Na comunicação telefónica, a retenção da informação tende a ser melhor por causa do apoio da linguagem não verbal. — Falso. O telefone reduz esse apoio.
+​
+
+O relatório de ocorrências deve conter opiniões pessoais mesmo sem prova, para ser mais completo. — Falso.
+​
+
+Um relatório deve ser objetivo, conciso, completo e conclusivo. — Verdadeiro.
+​
+
+O relatório deve ser redigido o mais rapidamente possível após a ocorrência. — Verdadeiro.
+​
+
+Num relatório, a linguagem deve ser complicada e técnica para mostrar profissionalismo. — Falso. Deve ser simples, clara e precisa.
+​
+
+As abreviaturas devem ser usadas com frequência porque tornam o relatório mais rápido de ler. — Falso.
+​
+
+As horas num relatório operacional devem ser indicadas no formato de 24 horas. — Verdadeiro.
+​
+
+O grupo data-hora inclui dia, hora, mês abreviado e ano com os dois últimos dígitos. — Verdadeiro.
+​
+
+O relatório deve responder às perguntas Quando, Onde, Quem, O quê e Como. — Verdadeiro.
+​
+
+O “Como?” corresponde à descrição pormenorizada da ocorrência. — Verdadeiro.
+​
+
+O relatório só precisa de ser assinado se houver intervenção da polícia. — Falso. Deve ser sempre assinado.
+​
+
+Se o relatório tiver mais do que uma folha, devem numerar-se e rubricar-se todas, assinando a última. — Verdadeiro.
+​
+
+O registo de visitantes serve para controlar entradas e saídas de não assalariados no local. — Verdadeiro.
+​
+
+O registo de movimentação de chaves é irrelevante para a segurança do local. — Falso. Uma má gestão de chaves pode comprometer seriamente a segurança.
+​
+
+Em rádio, o operador deve transmitir logo a mensagem sem esperar reconhecimento da central. — Falso.
+​
+
+Em rádio, emissor e recetor têm de estar na mesma frequência ou canal. — Verdadeiro.
+​
+
+A comunicação rádio deve ser breve e evitar conversas desnecessárias. — Verdadeiro.
+​
+
+A comunicação rádio é sempre terminada por quem a recebe. — Falso. É terminada por quem a inicia.
+​
+
+O uso do alfabeto fonético pode ser necessário para soletrar parte da mensagem. — Verdadeiro.
+​
+
+O relatório de atividade diária também pode ser chamado relatório de ocorrências. — Verdadeiro.
+​
+
+Escolha múltipla
+Qual destes é o canal de comunicação?
+
+A) O conteúdo transmitido
+
+B) O meio por onde a mensagem passa
+
+C) A resposta do recetor
+
+D) O contexto
+Resposta: B.
+​
+
+Qual destes corresponde ao feedback?
+
+A) O idioma usado
+
+B) O local da ocorrência
+
+C) A confirmação de que a mensagem foi entendida
+
+D) Uma falha técnica
+Resposta: C.
+​
+
+Qual destas opções é um exemplo de ruído?
+
+A) A assinatura do relatório
+
+B) Problemas técnicos no canal
+
+C) O uso de português
+
+D) A descrição do local
+Resposta: B.
+​
+
+Qual destas é uma característica de um bom relatório?
+
+A) Subjetivo
+
+B) Longo
+
+C) Objetivo
+
+D) Cheio de abreviaturas
+Resposta: C.
+​
+
+O que deve responder à pergunta Onde?
+
+A) A descrição detalhada do modo como tudo aconteceu
+
+B) O local exato da ocorrência
+
+C) A solução proposta
+
+D) A opinião do relator
+Resposta: B.
+​
+
+O que deve evitar-se num relatório?
+
+A) Linguagem simples
+
+B) Horário de 24 horas
+
+C) Opiniões sem provas
+
+D) Assinatura no final
+Resposta: C.
+​
+
+Qual destes é um registo típico da segurança privada?
+
+A) Registo de visitantes
+
+B) Registo de férias escolares
+
+C) Registo clínico hospitalar
+
+D) Registo de notas académicas
+Resposta: A.
+​
+
+Na comunicação por rádio, antes de transmitir deve:
+
+A) Falar de imediato
+
+B) Desligar o equipamento
+
+C) Aguardar reconhecimento da comunicação
+
+D) Mudar de canal sem avisar
+Resposta: C.
+​
+
+A difusão eletrónica inclui:
+
+A) Apenas sinais com a mão
+
+B) Telefone, email e emissor-recetor
+
+C) Só comunicação escrita em papel
+
+D) Apenas diálogo presencial
+Resposta: B.
+​
+
+O relatório de ocorrências deve mencionar:
+
+A) Apenas a opinião do vigilante
+
+B) Apenas o nome do cliente
+
+C) Diligências efetuadas, entidades exteriores e testemunhas, quando existam
+
+D) Só a hora final do turno
+Resposta: C.
+​
+
+Cábula rápida
+Decora isto antes do teste:
+
+Elementos da comunicação: emissor, recetor, mensagem, código, canal, referente, feedback, ruído.
+​
+
+Técnicas: escuta ativa, feedback, clarificação, reformulação.
+​
+
+Um relatório bom é: objetivo, conciso, completo, conclusivo.
+​
+
+Perguntas-base do relatório: Quando, Onde, Quem, O quê, Como.
+​
+
+Regras: escrever rápido, simples, claro, sem opiniões sem prova, sem abreviaturas desnecessárias, assinar sempre, usar 24 horas.
+​
+
+Rádio: mesma frequência, indicativo de serviço, esperar reconhecimento, ser breve, confirmar receção, termina quem inicia.
+​

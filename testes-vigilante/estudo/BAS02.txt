@@ -1,0 +1,234 @@
+BAS02 — essencial
+O BAS02 trata de crime, procedimento penal e meios de prova. A base da matéria é perceber o que é crime, como se estrutura, quais os princípios do direito penal, como funciona o processo penal e quais são os meios de prova mais importantes.
+​
+
+Também tem muito peso prático para segurança privada, sobretudo nos crimes contra o património, na detenção em flagrante delito, na preservação do local do crime e na cadeia de custódia.
+​
+
+O que decorar
+Crime é um comportamento que viola a lei penal e é punido com pena ou medida de segurança.
+​
+
+Só há crime se o facto estiver previsto na lei.
+​
+
+A maior parte dos crimes é punível a título de dolo; a negligência só é punível quando a lei o disser expressamente.
+​
+
+O crime protege bens jurídicos, como a vida, a integridade física, a liberdade e o património.
+​
+
+A estrutura do crime assenta em quatro ideias principais:
+
+Conduta, que pode ser ação ou omissão.
+​
+
+Tipicidade, ou seja, correspondência entre o facto e o tipo legal.
+​
+
+Ilicitude, isto é, contrariedade ao direito.
+​
+
+Culpabilidade, que liga o facto ao autor através do dolo ou da negligência.
+​
+
+Princípios penais
+O princípio mais importante é o da legalidade: não há crime nem pena sem lei anterior. O manual resume isto no artigo 1.º do Código Penal, dizendo que só pode ser punido criminalmente o facto descrito e declarado passível de pena por lei anterior ao momento da sua prática.
+​
+
+Também tens de saber:
+
+Não retroatividade da lei penal mais grave.
+​
+
+Aplicação retroativa da lei penal mais favorável ao arguido.
+​
+
+Princípio da culpa: não há pena sem culpa, e a pena não pode ultrapassar a culpa.
+​
+
+Princípio in dubio pro reo: em caso de dúvida razoável, decide-se a favor do arguido.
+​
+
+Presunção de inocência: o arguido é presumido inocente até decisão final condenatória.
+​
+
+Perguntas típicas
+Estas ideias já aparecem no teu ficheiro de testes BAS02:
+
+“Quando as disposições penais vigentes no momento da prática do facto punível forem diferentes das estabelecidas em leis posteriores, é sempre aplicado o regime que concretamente se mostrar mais favorável ao agente.” — Verdadeiro.
+
+“Só pode ser punido criminalmente o facto descrito e declarado passível de pena por lei anterior ao momento da sua prática.” — Verdadeiro.
+
+“De acordo com o Código Penal constitui legítima defesa o facto praticado como meio para contrapor a agressão atual e lícita de interesses juridicamente desprotegidos do agente ou de terceiro.” — Falso, porque a agressão relevante tem de ser atual e ilícita, e a defesa incide sobre interesses juridicamente protegidos.
+
+“De acordo com o Código Penal, entre outros, são crimes contra a propriedade o furto e o furto qualificado.” — Verdadeiro.
+
+Legítima defesa
+A legítima defesa é uma causa de exclusão da ilicitude. Significa que um facto que em princípio seria crime deixa de ser ilícito quando é praticado para repelir uma agressão atual e ilícita de interesses juridicamente protegidos do agente ou de terceiro.
+​
+
+O erro das perguntas costuma estar em trocar “agressão ilícita” por “agressão lícita”, ou em alterar a ideia de proteção de interesses juridicamente protegidos. Se aparecer “lícita”, está errada.
+
+Formas de crime
+A consumação acontece quando se verificam os elementos necessários para o crime estar completo. A tentativa existe quando o agente pratica atos de execução de um crime que decidiu cometer, mas o crime não chega a consumar-se.
+​
+
+A tentativa é punível com pena especialmente atenuada em relação ao crime consumado. Já a desistência voluntária pode fazer desaparecer a punibilidade da tentativa, se o agente parar voluntariamente ou impedir a consumação.
+​
+
+Tipos de crime
+Quanto à natureza, tens de distinguir:
+
+Crimes públicos: o Ministério Público promove o processo mesmo sem queixa do ofendido.
+​
+
+Crimes semipúblicos: dependem de queixa, mas depois o Ministério Público investiga e acusa.
+​
+
+Crimes particulares: dependem de queixa e de acusação particular do ofendido, que se tem de constituir assistente.
+​
+
+Exemplos que o manual dá:
+
+Públicos: homicídio, roubo, violência doméstica, sequestro.
+​
+
+Semipúblicos: furto simples, ofensa à integridade física simples.
+​
+
+Particulares: injúrias, difamação e alguns casos legalmente enquadrados.
+​
+
+Crimes mais importantes
+Para exame, deves estudar principalmente estes crimes:
+
+Homicídio e homicídio qualificado.
+​
+
+Ofensa à integridade física simples e grave.
+​
+
+Ameaça, coação e sequestro.
+​
+
+Omissão de auxílio.
+​
+
+Furto e furto qualificado.
+​
+
+Roubo.
+​
+
+Abuso de confiança.
+​
+
+Dano.
+​
+
+Burla.
+​
+
+A distinção entre furto e roubo é muito importante: no furto há subtração de coisa móvel alheia; no roubo há subtração ou constrangimento com violência, ameaça grave ou colocando a vítima na impossibilidade de resistir.
+​
+
+Processo penal
+O processo penal serve para apurar se houve crime e quais as consequências jurídicas. As fases essenciais que deves decorar são inquérito, instrução e julgamento.
+​
+
+O inquérito é dirigido pelo Ministério Público e serve para investigar a existência de crime, descobrir os autores e recolher prova. A instrução é facultativa e visa controlar a decisão de acusar ou arquivar; o julgamento é a fase em que a prova é produzida e o tribunal decide condenar ou absolver.
+​
+
+Sujeitos processuais
+Os principais sujeitos processuais são:
+
+Tribunal.
+​
+
+Juiz de instrução.
+​
+
+Ministério Público.
+​
+
+Órgãos de polícia criminal.
+​
+
+Arguido.
+​
+
+Defensor.
+​
+
+Assistente.
+​
+
+Parte civil.
+​
+
+Também aparecem como intervenientes processuais as testemunhas, os peritos e os intérpretes. As testemunhas depõem sobre factos de que tenham conhecimento direto, os peritos dão parecer técnico e os intérpretes garantem tradução a quem não domina português.
+​
+
+Prova e meios de prova
+A prova serve para demonstrar os factos relevantes do processo. O manual refere como meios de prova mais usados a prova testemunhal, as declarações do arguido, a acareação, o reconhecimento, a reconstituição do facto, a prova pericial e a prova documental.
+​
+
+Os meios de obtenção da prova são diligências como exames, revistas, buscas, apreensões e escutas telefónicas. O manual sublinha que a verdade material não pode ser procurada a qualquer custo e que são proibidas provas obtidas por tortura, coação ou ofensa da integridade física ou moral, bem como certas intromissões ilegais na vida privada, domicílio, correspondência ou telecomunicações.
+​
+
+Flagrante delito e detenção
+O auto de notícia é elaborado quando uma autoridade presencia o crime. O auto de denúncia é feito quando a autoridade toma conhecimento de um crime que não presenciou.
+​
+
+A detenção em flagrante delito é muito perguntável. Há flagrante delito quando a pessoa está a cometer o crime, acabou de o cometer, ou é logo perseguida ou encontrada com objetos ou sinais que mostram claramente que acabou de o praticar ou participar nele.
+​
+
+A detenção em flagrante delito pode ser feita por autoridade pública e também por qualquer cidadão, se nenhuma autoridade estiver presente nem puder ser chamada em tempo útil. Fora do flagrante delito, a regra é que a detenção só pode ser ordenada por juiz ou, em certos casos, pelo Ministério Público.
+​
+
+Papel da segurança privada
+Num contexto de crime, o pessoal de segurança privada deve:
+
+Socorrer vítimas ou promover o socorro.
+​
+
+Acionar a polícia territorialmente competente.
+​
+
+Isolar o local e preservar vestígios.
+​
+
+Impedir que suspeitos, vítimas ou testemunhas alterem roupas ou sinais relevantes.
+​
+
+Pedir às testemunhas que aguardem a polícia ou deixem contacto.
+​
+
+Colaborar com a polícia e entregar a prova recolhida.
+​
+
+Se for indispensável entrar no local, deve fazê-lo com o mínimo de interferência possível. O manual é claro: não contaminar, não alterar, não destruir nem acrescentar vestígios.
+​
+
+Cadeia de custódia
+A cadeia de custódia serve para garantir a identidade, integridade e rastreabilidade da prova desde a recolha até à apresentação em tribunal. É um registo cronológico de quem recolheu, transportou, entregou, guardou e analisou os vestígios.
+​
+
+No exame, a ideia principal é esta: a prova tem de manter-se íntegra e devidamente documentada, senão perde fiabilidade. Para segurança privada, isso significa preservar os vestígios e entregá-los corretamente às autoridades.
+​
+
+Truques para verdadeiro/falso
+Se a frase disser que se aplica a lei penal mais favorável ao arguido, tende a ser verdadeira.
+
+Se disser que só há crime se existir lei anterior, é verdadeira.
+
+Se trocar “agressão ilícita” por “agressão lícita” na legítima defesa, é falsa.
+
+Se disser que o furto e o furto qualificado são crimes contra a propriedade, é verdadeira.
+
+Se sugerir que vale tudo para obter prova, é falsa.
+​
+
+Mini-resumo para decorar
+No BAS02, o mais importante é saber que o crime tem de estar previsto na lei, que não há pena sem culpa, que vale a lei penal mais favorável ao arguido e que o processo penal passa por inquérito, instrução e julgamento. Também tens de dominar a legítima defesa, a distinção entre crimes públicos, semipúblicos e particulares, a diferença entre furto e roubo, o flagrante delito, os meios de prova e a preservação da prova através da cadeia de custódia.

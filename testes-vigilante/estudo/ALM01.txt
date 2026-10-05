@@ -1,0 +1,52 @@
+ALM 01 — essencial
+O ALM 01 trata da segurança eletrónica, dividida em Security (proteção contra atos ilícitos: intrusão, controlo de acessos e videovigilância) e Safety (proteção contra acidentes e incêndios: SADI e deteção de gás). A ideia central é conhecer os sistemas automáticos, os tipos de detetores e os procedimentos perante alarmes.
+
+O que decorar
+Security = intrusão (SADIR), controlo de acessos e CCTV.
+Safety = incêndio (SADI) e gases (SADG).
+Controlo de acessos tem três passos: identificação, autorização e auditoria.
+Identificação: o utilizador apresenta a credencial (cartão, código, biometria).
+Autorização: define o que o utilizador pode fazer, áreas acessíveis e horários válidos.
+Auditoria: consultar registos e rastrear eventos (quem entrou, por onde e a que horas).
+Anti-passback: o leitor fica inoperacional até ser validada a saída.
+A CRA (Central de Receção de Alarmes) faz monitorização remota e gestão de sinais de alarme 24h — não instala sensores.
+Os sistemas devem ter alimentação de reserva (baterias) para funcionar com corte de energia.
+O teclado de intrusão fica protegido dentro da instalação, nunca visível do exterior.
+
+Sistemas e siglas
+SADI: Sistema Automático de Deteção de Incêndio (Safety).
+SADG: Sistema Automático de Deteção de Gás (Safety) — CO, gás natural.
+SADIR: Sistema Automático de Deteção de Intrusão (Security).
+CCTV/CFTV: videovigilância — pertence ao pilar Security.
+
+Detetores de intrusão
+Contacto magnético: portas e janelas — deteta a abertura.
+Detetor de quebra de vidro: acústico — reage à frequência sonora do vidro a partir-se.
+PIR (infravermelhos passivos): não emitem nada; detetam radiação térmica, em linha de vista — não veem através de paredes.
+Detetor de dupla tecnologia: PIR + Micro-ondas — só dispara se ambos detetarem.
+Sabotagem (tamper): corte de linha ou abertura de sensor valida o sinal de alarme.
+
+Detetores de incêndio
+Óticos: dispersão da luz pelas partículas de fumo (Efeito Tyndall).
+Termovelocimétricos: reagem à subida de temperatura, não ao fumo.
+
+Confirmação de alarmes
+Um alarme de intrusão só é confirmado para as autoridades com dois detetores de zonas diferentes.
+Verificação sequencial: dois sinais de detetores diferentes em menos de 30 minutos.
+Verificação legal: vídeo, áudio, sequencial ou verificação pessoal.
+Em alarme confirmado, a prioridade é a verificação e a segurança — não desligar a sirene antes de verificar o local.
+Entrar no local é sempre feito com precaução, mesmo sem sinais de arrombamento.
+O sistema deve ser testado regularmente (comunicação com a central).
+
+Botão de pânico e saídas
+Botão de pânico: fácil acesso mas discreto.
+Dispositivos Antipânico (barras horizontais): fuga efetiva com esforço mínimo sob stress, para quem não conhece bem as saídas.
+
+Truques para verdadeiro/falso
+Se trocar Security por Safety (ou SADI por SADG/SADIR), a frase é falsa.
+Se a sirene se desliga antes da verificação, é falsa.
+Se o PIR emite luz ou vê através de paredes, é falsa.
+Dois detetores de zonas diferentes para confirmar alarme: verdadeira.
+
+Mini-resumo para decorar
+Divisão Security/Safety; siglas SADI, SADG, SADIR, CCTV; identificação, autorização e auditoria; tipos de detetores; confirmação de alarmes (dois detetores, sequencial < 30 min); verificar primeiro, entrar com precaução e nunca desligar a sirene antes de confirmar.

@@ -1,0 +1,37 @@
+VIG 02 — essencial
+O VIG 02 trata das técnicas de vigilância: posto fixo, rondas, rendição, controlo de acessos e registos. A ideia central: o posto nunca fica desprotegido e a informação passa de turno para turno.
+
+O que decorar
+Vigilância estática: posto fixo (portaria, receção).
+Vigilância móvel: rondas preventivas para detetar anomalias, intrusões ou falhas de segurança.
+Rondas irregulares — nunca períodos fixos nem itinerários previsíveis.
+A responsabilidade termina quando o vigilante é efetivamente rendido ou autorizado pela hierarquia.
+Falta de rendição: contactar de imediato o supervisor ou a central; o posto nunca fica desprotegido.
+Nunca abandonar o posto, nem pedir a um funcionário do cliente para olhar o posto.
+Na rendição, o cessante transmite todas as anomalias detetadas no turno.
+Uniforme obrigatório e exclusivo, conforme o modelo aprovado pela PSP.
+Bastão de ronda (eletrónico): prova a passagem por determinados pontos a certas horas — não é arma.
+O CCTV apoia mas não substitui a vigilância humana.
+Nas rondas, comunica-se à central sempre que houver anomalias ou ocorrências relevantes.
+
+Controlo de acessos
+Identificar é dizer quem é; autenticar é provar; autorizar é verificar permissão.
+Identificação e autorização não são o mesmo conceito.
+Registo de visitantes: hora de entrada e hora de saída.
+Revista de bens pessoais apenas com suspeita fundada de crime.
+Ao detetar intrusão, contactar prioritariamente a central ou as autoridades.
+
+Registos e relatórios
+Relatório de Ocorrência: preenchido e entregue o mais rapidamente possível após o evento.
+Relatório objetivo e factual: sem opiniões, julgamentos ou adjetivos sobre o suspeito.
+Gravação de som em videovigilância: proibida sem autorização prévia da Comissão de Proteção de Dados.
+Cortesia e urbanidade são deveres no trato com o público.
+A postura influencia conflitos: firme mas aberta desescala; agressiva escalar.
+Piquete de Intervenção: resposta pronta a sinais de alarme — não limpeza ou manutenção.
+
+Truques para verdadeiro/falso
+Se admitir abandono de posto, rondas regulares ou relatórios tardios/subjetivos, é falsa.
+Se valorizar rendição com passagem de anomalias, rondas irregulares e registo de visitantes, é verdadeira.
+
+Mini-resumo para decorar
+Vigilância estática e móvel (rondas irregulares); o posto nunca se abandona; rendição com transmissão de anomalias; identificar/autenticar/autorizar são distintos; registo de visitantes com entradas e saídas; relatório rápido, objetivo e factual; bastão de ronda prova a passagem; CCTV apoia mas não substitui.

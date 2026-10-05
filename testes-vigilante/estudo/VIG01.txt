@@ -1,0 +1,40 @@
+VIG 01 — essencial
+O VIG 01 trata da segurança física e da análise de riscos. A ideia central é a segurança em profundidade: camadas concêntricas que dissuadem, detetam, demoram e derrotam o intruso.
+
+O que decorar
+Segurança física é a primeira linha de defesa.
+Segurança física e eletrónica trabalham em conjunto: o alarme avisa, as portas e grades atrasam a entrada.
+Os 4D's: Dissuadir, Detetar, Demorar e Derrotar.
+Risco = Ameaça x Vulnerabilidade. Sem vulnerabilidade, o risco é zero.
+Vulnerabilidades são fragilidades internas exploráveis pelo agressor.
+Reduzir a probabilidade de sucesso do intruso: mais camadas, melhor eficácia ou ambas.
+Variáveis externas (criminalidade local) são obrigatórias na análise e não controláveis pela empresa.
+Avaliação de riscos em três fases: zona periférica, zona perimetral e zona interna.
+Graus de risco: em regra 3 (Baixo, Médio, Elevado); 4 graus é dos sistemas de alarme (EN 50131).
+
+Barreiras físicas
+Medidas passivas: barreiras físicas (muros, grades, redes, vidros) — não precisam de energia.
+Medidas ativas/eletrónicas: detetam e alertam.
+As barreiras retardam (demoram) a intrusão — não a impedem totalmente.
+Barreiras naturais (ex.: rio) também são segurança física.
+Arame farpado no topo do muro: elemento de dissuasão.
+Vedações de rede metálica: barreiras passivas.
+Quanto menos portas no perímetro, maior a segurança.
+Segurança em profundidade: círculos concêntricos que retardam a progressão do intruso até ao ativo — nunca uma única linha de resistência.
+
+Controlo de acessos e vigilância
+Controlo de acessos: manual, semiautomático ou automático.
+Eclusa: duas portas onde a segunda só abre se a primeira estiver fechada (bancos, alta segurança).
+Área de acesso livre: sem restrição de entrada.
+Rondas com sentido e itinerário variados — rotinas previsíveis são exploráveis.
+Iluminação de segurança deve encandear o intruso e facilitar a visão do vigilante para o exterior.
+Ameaças internas são mais fáceis de controlar do que as externas.
+Fechar a porta e deixar as chaves na receção sem rendição: abandono de posto.
+
+Truques para verdadeiro/falso
+Se disser que barreiras impedem totalmente, que passivas detetam ou que a eletrónica substitui a física, é falsa.
+Se o último D não for Derrotar, é falsa.
+Se disser que variáveis externas são controláveis, é falsa.
+
+Mini-resumo para decorar
+Segurança física é a primeira linha de defesa; 4D's (Dissuadir, Detetar, Demorar, Derrotar); risco = ameaça x vulnerabilidade; barreiras passivas demoram, não impedem; camadas concêntricas; três fases de avaliação; rondas irregulares; iluminar para encandear o intruso.

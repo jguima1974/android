@@ -1,0 +1,359 @@
+BAS06 — essencial
+O BAS06 trata da segurança e higiene no trabalho aplicada à segurança privada. A ideia central é simples: prevenir riscos profissionais, proteger a saúde do trabalhador e reduzir acidentes através de organização, prevenção, ergonomia, equipamentos de proteção e sinalização.
+​
+
+O manual enquadra esta matéria na Constituição e na Lei n.º 102/2009, sublinhando que todos os trabalhadores têm direito a trabalhar em condições de higiene, segurança e saúde.
+​
+
+O que decorar
+Segurança do trabalho visa prevenir acidentes de trabalho.
+​
+
+Higiene do trabalho visa prevenir doenças profissionais.
+​
+
+Perigo é a propriedade de algo com potencial para provocar dano.
+​
+
+Risco é a probabilidade de esse dano acontecer.
+​
+
+Prevenção é o conjunto de medidas destinadas a eliminar ou diminuir riscos profissionais.
+​
+
+Também tens de saber:
+
+Acidente de trabalho não é só o que ocorre no posto de trabalho; pode incluir trajeto e certas situações ligadas ao trabalho.
+​
+
+A proteção coletiva deve ser priorizada face à proteção individual.
+​
+
+O empregador e o trabalhador têm ambos deveres em matéria de segurança e saúde.
+​
+
+Definições básicas
+Estas definições costumam sair muito em verdadeiro/falso:
+
+Segurança do trabalho: metodologias de prevenção de acidentes, focadas nos riscos do local, equipamentos e processo de trabalho.
+​
+
+Higiene do trabalho: metodologias não médicas de prevenção de doenças profissionais, com controlo de agentes físicos, químicos e biológicos no ambiente de trabalho.
+​
+
+Perigo: potencial para provocar dano.
+​
+
+Risco: probabilidade de o dano se concretizar.
+​
+
+Acidente/dano: acontecimento não planeado que provoca morte, lesão, dano para a saúde ou prejuízo.
+​
+
+Um truque útil é este: perigo é a fonte potencial de dano; risco é a possibilidade de esse dano acontecer.
+​
+
+Acidente de trabalho
+O manual diz que é acidente de trabalho o que ocorre no local e no tempo de trabalho e causa lesão corporal, perturbação funcional, doença, redução da capacidade de trabalho ou morte.
+​
+
+Mas também pode ser considerado acidente de trabalho:
+
+No trajeto de ida ou regresso ao trabalho.
+​
+
+Em serviços espontaneamente prestados com proveito económico para o empregador.
+​
+
+Em reunião ou atividade como representante dos trabalhadores, no local de trabalho.
+​
+
+Em formação profissional autorizada.
+​
+
+Fora do local ou tempo de trabalho, quando se executam serviços determinados ou consentidos pelo empregador.
+​
+
+Prevenção de riscos
+A prevenção de riscos profissionais visa eliminar ou reduzir riscos emergentes do trabalho. O manual resume a lógica assim: eliminar ou reduzir o risco, proteger com medidas coletivas e individuais, e informar sobre os riscos residuais que não foi possível eliminar.
+​
+
+Os riscos na segurança privada podem vir:
+
+Da própria atividade, como contacto com o público, tensão, conflito, agressão verbal ou física, intimidação.
+​
+
+Das instalações onde o vigilante trabalha, como ruído, frio, calor, poeiras, gases, risco biológico ou incêndio.
+​
+
+Obrigações do empregador
+O empregador deve zelar de forma contínua pelas condições de segurança e saúde do trabalhador. O manual destaca estes princípios:
+
+Evitar os riscos.
+​
+
+Planificar a prevenção.
+​
+
+Identificar riscos previsíveis.
+​
+
+Combater os riscos na origem.
+​
+
+Assegurar que agentes químicos, físicos, biológicos e fatores psicossociais não criam risco para a saúde do trabalhador.
+​
+
+Adaptar o trabalho ao homem.
+​
+
+Dar prioridade às medidas de proteção coletiva.
+​
+
+Elaborar e divulgar instruções compreensíveis e adequadas.
+​
+
+Obrigações do trabalhador
+O trabalhador também tem deveres próprios:
+
+Cumprir as regras de segurança e saúde no trabalho.
+​
+
+Zelar pela sua segurança e pela dos outros afetados pelas suas ações ou omissões.
+​
+
+Utilizar corretamente máquinas, aparelhos, substâncias e equipamentos de proteção.
+​
+
+Cumprir os procedimentos de trabalho estabelecidos.
+​
+
+Em exame, se aparecer uma frase a dizer que só o empregador tem obrigações de segurança, está errada.
+​
+
+Medidas cautelares
+Movimentação manual de cargas
+A movimentação manual de cargas é qualquer operação de transporte ou sustentação que, pelas características da carga ou por condições ergonómicas desfavoráveis, comporte risco, especialmente na região dorso-lombar.
+​
+
+O manual refere como fatores de risco:
+
+Carga superior a 30 kg em operações ocasionais.
+​
+
+Carga superior a 20 kg em operações frequentes.
+​
+
+Carga muito volumosa, instável, difícil de agarrar ou mantida longe do tronco.
+​
+
+Regras práticas:
+
+Aproximar o corpo da carga.
+​
+
+Manter costas direitas e fletir as pernas.
+​
+
+Manter a carga junto ao corpo.
+​
+
+Rodar com os pés, não com a coluna.
+​
+
+Usar a força das pernas para levantar.
+​
+
+Ruído
+O ruído é um agente físico importante e mede-se em decibéis; a unidade usada para o ouvido humano é dBA. O manual refere que a perda auditiva induzida pelo ruído é uma das doenças profissionais mais comuns na Europa.
+​
+
+Medidas de prevenção:
+
+Formação e informação.
+​
+
+Sinalização e limitação de acesso a zonas ruidosas.
+​
+
+Vigilância médica e audiométrica.
+​
+
+Barreiras acústicas.
+​
+
+Rotatividade de postos.
+​
+
+Utilização de protetores auditivos.
+​
+
+Os protetores auditivos devem usar-se sempre que a exposição pessoal diária possa exceder 85 dBA.
+​
+
+Agentes biológicos
+Os agentes biológicos incluem vírus, bactérias, fungos, parasitas e germes. Podem entrar no organismo por via digestiva, respiratória, olhos ou pele e originar doenças como infeções intestinais, gripe, hepatite ou meningite.
+​
+
+As medidas preventivas passam por:
+
+Higiene rigorosa dos locais e dos trabalhadores.
+​
+
+Uso de EPI.
+​
+
+Ventilação adequada.
+​
+
+Limpeza de sistemas de ventilação e equipamentos.
+​
+
+Controlo médico.
+​
+
+Vacinação quando possível.
+​
+
+Riscos psicossociais
+Os riscos psicossociais decorrem da organização e gestão do trabalho e podem causar dano psicológico, social ou físico. O manual liga estes riscos a stress, violência, assédio e intimidação no trabalho.
+​
+
+Também refere que o stress excessivo pode piorar o desempenho, aumentar o absentismo e elevar a percentagem de acidentes.
+​
+
+Incêndio
+Os edifícios devem ter meios de primeira intervenção, como mantas, baldes, extintores e dispositivos fixos equivalentes, colocados e sinalizados de acordo com os planos de prevenção e emergência.
+​
+
+O manual refere que:
+
+A distância até ao extintor mais próximo não deve exceder 15 metros.
+​
+
+Se o foco de incêndio ainda for pequeno, deve haver intervenção imediata com os meios disponíveis, sem prejuízo da chamada dos bombeiros.
+​
+
+Para líquidos inflamáveis usa-se pó químico.
+​
+
+Para aparelhos elétricos usa-se anidrido carbónico.
+​
+
+Para madeira, papel, cartão e plástico usa-se água, eventualmente com aditivo molhante.
+​
+
+Também tens de saber:
+
+Alarme: aviso sonoro ou luminoso de situação anormal ou de emergência.
+​
+
+Alarme geral: aviso de evacuação para todos os ocupantes.
+​
+
+Alarme local: aviso limitado a determinado espaço e ao pessoal afeto à segurança.
+​
+
+Alerta: mensagem enviada aos meios de socorro, como os bombeiros.
+​
+
+Ergonomia
+A ergonomia estuda a adaptação do posto de trabalho ao trabalhador para melhorar qualidade de vida, prevenir patologias e aumentar rendimento. O foco é ajustar objetos, sistemas e tarefas ao ser humano, e não o contrário.
+​
+
+Exemplos dados no manual:
+
+Cadeiras com altura regulável.
+​
+
+Mais espaço para as pernas.
+​
+
+Materiais pesados à altura da cintura.
+​
+
+Rotação de tarefas para evitar fadiga.
+​
+
+Evitar reflexos nos ecrãs.
+​
+
+Formação sobre posturas corretas.
+​
+
+EPI
+Os equipamentos de proteção individual são meios destinados a proteger o utilizador contra riscos para a sua saúde e segurança. O manual destaca que devem ser cómodos, robustos, leves, adaptáveis e homologados com declaração CE de conformidade.
+​
+
+Exemplos principais:
+
+Cabeça: capacete.
+​
+
+Olhos e rosto: óculos e viseiras.
+​
+
+Vias respiratórias: máscaras filtrantes ou aparelhos isolantes.
+​
+
+Audição: abafadores e tampões.
+​
+
+Tronco: vestuário adequado.
+​
+
+Pés e membros inferiores: sapatos e botas.
+​
+
+Mãos e membros superiores: luvas, dedeiras e mangas.
+​
+
+Quedas em altura: cinto ou arnês.
+​
+
+O empregador deve fornecer os EPI, garantir o seu funcionamento, informar os trabalhadores e assegurar formação sobre a sua utilização. O trabalhador deve usá-los corretamente, mantê-los em bom estado e comunicar avarias ou deficiências.
+​
+
+Sinalização de segurança
+A sinalização serve para informar de forma rápida sobre riscos e procedimentos. O manual distingue quatro tipos principais:
+​
+
+Sinais de perigo: triangulares, contorno e pictograma a preto, fundo amarelo.
+​
+
+Sinais de proibição: circulares, contorno vermelho, pictograma a preto, fundo branco.
+​
+
+Sinais de obrigação: circulares, fundo azul, pictograma a branco.
+​
+
+Sinais de emergência: retangulares, fundo verde, pictograma a branco.
+​
+
+Isto costuma sair muito em verdadeiro/falso ou em associação entre cor e significado.
+​
+
+Truques para verdadeiro/falso
+Se a frase disser que a proteção coletiva deve ter prioridade sobre a individual, é verdadeira.
+​
+
+Se disser que perigo e risco são a mesma coisa, é falsa.
+​
+
+Se disser que acidente de trabalho só existe dentro do posto de trabalho e no horário normal, é falsa.
+​
+
+Se disser que o trabalhador não tem deveres em segurança e saúde, é falsa.
+​
+
+Se disser que os sinais de obrigação têm fundo azul e pictograma branco, é verdadeira.
+​
+
+Se disser que os sinais de emergência têm fundo verde, é verdadeira.
+​
+
+Se disser que protetores auditivos se usam quando a exposição pode exceder 85 dBA, é verdadeira.
+​
+
+Mini-resumo para decorar
+No BAS06, o essencial é dominar as definições de segurança, higiene, perigo, risco, prevenção e acidente de trabalho; perceber os deveres do empregador e do trabalhador; conhecer os principais riscos profissionais, especialmente cargas, ruído, agentes biológicos, riscos psicossociais e incêndio; e decorar ergonomia, EPI e sinalização de segurança.

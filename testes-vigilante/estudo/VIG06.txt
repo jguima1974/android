@@ -1,0 +1,30 @@
+VIG 06 — essencial
+O VIG 06 trata dos registos de segurança, relatórios técnicos e simulacros no âmbito das Medidas de Autoproteção (SCIE). A ideia central: documentar com rigor é a maior proteção do vigilante.
+
+O que decorar
+Um relatório é objetivo, conciso, completo e conclusivo; simples, direto e verificável; redigido o mais cedo possível após o evento.
+O relatório de ocorrência responde a: Quem, O quê, Onde, Quando e Como — sem opiniões, juízos de valor ou linguagem vaga.
+A identificação correta dos envolvidos e a sequência cronológica são essenciais; omitir horários, locais ou intervenientes reduz o valor técnico e probatório.
+Os registos de segurança mencionam ocorrências com data de início e fim e o responsável pelo acompanhamento.
+Os registos são arquivados por 10 anos, em papel ou formato digital.
+Os registos técnicos contêm o histórico de segurança e fazem parte das medidas de autoproteção obrigatórias por lei; incluem relatórios de vistoria/inspeção e a relação de ações de manutenção e ocorrências SCIE.
+O Registo de Segurança é o diário de bordo obrigatório do edifício: prova perante a ANEPC e seguradoras que os equipamentos foram testados e estão operacionais.
+A fiscalização dos registos de segurança contra incêndio é da ANEPC — não da DNPSP (que regula a segurança privada).
+A responsabilidade das Medidas de Autoproteção cabe ao proprietário/Responsável de Segurança (RS) do edifício — não à empresa de segurança privada.
+Na ausência do RS, o substituto legal assume todas as obrigações relativas aos registos técnicos.
+Mesmo pequenas anomalias podem justificar registo, conforme as normas do serviço.
+
+Simulacros
+Servem para testar as medidas de autoproteção e treinar os ocupantes.
+Comunicados com a devida antecedência aos ocupantes, podendo a data e/ou hora não ser rigorosamente estabelecidas (realismo do exercício).
+
+Utilizações-tipo (UT)
+O regime jurídico de SCIE prevê 12 utilizações-tipo (não 21).
+UT V: hospitalares e lares de idosos. UT VI: espetáculos e reuniões públicas.
+
+Truques para verdadeiro/falso
+Se admitir subjetividade, vagueza ou atraso na redação de relatórios, é falsa.
+Se atribuir responsabilidades SCIE à empresa de segurança privada ou à DNPSP, é falsa — é do RS do edifício, fiscalizada pela ANEPC.
+
+Mini-resumo para decorar
+Relatórios objetivos, concisos, completos e conclusivos (Quem, O quê, Onde, Quando, Como), redigidos cedo e sem opiniões; registos com início/fim e responsável, arquivados 10 anos; Registo de Segurança como diário de bordo SCIE; responsabilidade das Medidas de Autoproteção do RS, fiscalizada pela ANEPC; 12 UT (hospitais e lares na UT V, espetáculos na UT VI); simulacros comunicados com antecedência, mas sem data/hora rigorosamente marcada.

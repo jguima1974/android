@@ -1,0 +1,228 @@
+Sim — aqui tens o mesmo para o BAS03, em formato de estudo prático, com foco no que tem mais probabilidade de sair no exame final.
+
+BAS03 — essencial
+O BAS03 trata do regime jurídico da atividade de segurança privada, da autoproteção, do sistema de segurança interna e das forças e serviços de segurança. A ideia central é que a segurança privada existe para proteger pessoas e bens e prevenir crimes, mas tem uma função complementar face às forças e serviços de segurança do Estado.
+​
+
+A base legal principal indicada no manual é a Lei n.º 34/2013, alterada pela Lei n.º 46/2019, e a respetiva regulamentação complementar, especialmente a Portaria n.º 273/2013, alterada depois pela Portaria n.º 106/2015 e pela Portaria n.º 292/2020.
+​
+
+O que decorar
+A segurança privada e a autoproteção só podem ser exercidas nos termos da lei e da regulamentação aplicável.
+​
+
+A atividade de segurança privada tem função complementar à atividade das forças e serviços de segurança do Estado.
+​
+
+A lei regula tanto empresas que prestam serviços a terceiros como serviços internos de autoproteção organizados em proveito próprio.
+​
+
+A formação profissional do pessoal de segurança privada e a consultoria de segurança também são atividades reguladas por esta lei.
+​
+
+Serviços de segurança privada
+Segundo o manual, os serviços de segurança privada incluem:
+
+Vigilância de imóveis e controlo de entrada, permanência e saída de pessoas.
+​
+
+Proteção pessoal.
+​
+
+Monitorização de sinais de alarme.
+​
+
+Transporte, guarda, tratamento e distribuição de fundos e valores.
+​
+
+Rastreio, inspeção e filtragem em portos e aeroportos.
+​
+
+Elaboração de estudos e planos de segurança e projetos de organização de serviços de segurança privada.
+​
+
+Isto é importante para verdadeiro/falso, porque a elaboração de estudos e planos de segurança faz parte da atividade legalmente prevista. Por isso, a afirmação do teu teste BAS03 a dizer que essa atividade é proibida estava errada, e a resposta correta foi Falso.
+
+Ideias que já saíram em teste
+Estas perguntas do teu ficheiro são muito típicas:
+
+“No exercício da atividade de segurança privada é proibida a fiscalização de títulos de transporte e a elaboração de estudos e planos de segurança.” — Falso, porque a lei permite estudos e planos de segurança e também admite, em certos termos, a fiscalização de títulos de transporte.
+
+“As entidades e o pessoal de segurança privada, no exercício das suas funções, não podem interferir ou intervir em manifestações e reuniões públicas.” — Verdadeiro.
+
+“A atividade de segurança privada tem função complementar à atividade das forças e serviços de segurança pública do Estado.” — Verdadeiro.
+
+“Entende-se por monitorização de alarmes todos os atos e procedimentos relacionados com a receção de sinais de alarme, bem como a resposta e reposição de alarmes.” — Verdadeiro.
+
+“A Lei de Segurança Privada estabelece o regime do exercício da atividade de segurança privada, da organização de serviços de autoproteção e as medidas a adotar, por entidades públicas ou privadas, com vista a prevenir a prática de crimes.” — Verdadeiro.
+
+Proibições principais
+A lei proíbe, no exercício da atividade de segurança privada:
+
+O desempenho de funções que pertençam em exclusivo às autoridades judiciais ou policiais.
+​
+
+Ameaçar, inibir ou restringir direitos, liberdades e garantias, salvo nos casos legalmente previstos.
+​
+
+Proteger bens, serviços ou pessoas envolvidos em atividades ilícitas.
+​
+
+Interferir ou intervir em manifestações, reuniões públicas ou conflitos de natureza política, sindical ou laboral.
+​
+
+Instalar sistemas suscetíveis de pôr em perigo a vida ou integridade física.
+​
+
+Instalar alarmes com chamada automática gravada para o 112 ou para as forças de segurança.
+​
+
+Este ponto é muito perguntável porque marca bem o limite entre segurança privada e autoridade pública.
+​
+
+Regras de conduta
+O pessoal de vigilância deve:
+
+Respeitar os direitos fundamentais dos cidadãos.
+​
+
+Manter conduta íntegra e legal.
+​
+
+Ter atitude discreta e resiliente.
+​
+
+Não manter ligações com atividades ilícitas.
+​
+
+Não ser fator de perturbação da ordem pública.
+​
+
+Prestar assistência a pessoas em perigo.
+​
+
+Estas regras são importantes porque aparecem muitas vezes em perguntas indiretas sobre deveres e comportamento profissional.
+​
+
+Especialidades profissionais
+A profissão de segurança privado é uma profissão regulamentada e inclui várias especialidades:
+
+Vigilante.
+​
+
+Segurança-porteiro.
+​
+
+Vigilante de proteção e acompanhamento pessoal.
+​
+
+Assistente de recinto desportivo.
+​
+
+Assistente de recinto de espetáculos.
+​
+
+Assistente de portos e aeroportos.
+​
+
+Vigilante de transporte de valores.
+​
+
+Fiscal de exploração de transportes públicos.
+​
+
+Operador de central de alarmes.
+​
+
+O pessoal de vigilância só pode exercer as funções correspondentes à especialidade para a qual está habilitado com cartão profissional.
+​
+
+Funções importantes
+O vigilante pode vigiar e proteger pessoas e bens, controlar entradas e saídas, prevenir crimes e executar serviços de resposta a alarmes. Em certas condições legais, pode também realizar revistas pessoais de prevenção e segurança.
+​
+
+O segurança-porteiro atua em estabelecimentos de restauração ou bebidas com espaço de dança, controla acessos, impede a entrada de objetos proibidos e apoia a evacuação em emergência. O operador de central de alarmes trata sinais de alarme e videovigilância e pede a intervenção adequada conforme o tipo de alarme.
+​
+
+Revistas pessoais
+As revistas pessoais de prevenção e segurança são um ponto muito importante. Os assistentes de recinto desportivo e os assistentes de portos e aeroportos podem fazê-las para impedir a entrada de objetos e substâncias proibidas, usando equipamentos não intrusivos; a palpação e a vistoria intrusiva exigem supervisão das forças de segurança territorialmente competentes.
+​
+
+A revista por palpação só pode ser feita por pessoal de vigilância do mesmo sexo da pessoa controlada. A recusa em submeter-se à revista pode impedir a entrada no local controlado.
+​
+
+Cartão, uniforme e arma
+O coordenador de segurança e o pessoal de vigilância consideram-se identificados quando estão devidamente uniformizados e com o cartão profissional visível. Além disso, devem exibir prontamente o cartão profissional quando lhes for solicitado.
+​
+
+Quanto a armas, o pessoal de vigilância está sujeito ao regime geral de uso e porte de arma, mas em serviço o porte só é permitido com autorização escrita cumulativa da entidade patronal e da entidade contratante. O uso de algemas, bastões, cassetetes, lanternas com mais de 0,30 m e equídeos não é permitido na prestação de serviços de segurança privada.
+​
+
+Deveres e colaboração
+As entidades titulares de alvar ou licença e o respetivo pessoal têm dever de colaboração com as autoridades públicas. Se as forças ou serviços de segurança intervirem num local onde atua segurança privada, esta deve colocar os seus meios humanos e materiais à disposição e sob direção daquelas forças.
+​
+
+Entre os deveres especiais das entidades, o manual destaca comunicar imediatamente à autoridade judiciária ou policial qualquer crime conhecido no exercício da atividade, manter registos atualizados e garantir que o pessoal cumpre os requisitos legais.
+​
+
+Alvar, licença e autorização
+A prestação de serviços de segurança privada a terceiros exige alvar. A organização de serviços internos de autoproteção exige licença, e a atividade de entidades formadoras e consultoras exige autorização.
+​
+
+Os principais alvarás são:
+
+Alvará A: vigilância, rastreio portos/aeroportos, estudos e planos, e certos serviços ligados à fiscalização de títulos de transporte.
+​
+
+Alvará B: proteção pessoal e estudos/planos.
+​
+
+Alvará C: monitorização de alarmes e estudos/planos.
+​
+
+Alvará D: transporte de valores e estudos/planos.
+​
+
+Medidas de segurança
+A lei impõe medidas especiais a certas entidades, como instituições de crédito, sociedades financeiras, grandes conjuntos comerciais, locais de metais preciosos e obras de arte, farmácias e postos de combustível. Entre essas medidas surgem frequentemente videovigilância, dispositivos de segurança e centrais de controlo.
+​
+
+A instalação de dispositivos de alarme com sirene audível do exterior ou botão de pânico tem de ser comunicada e registada na autoridade policial da área, no prazo de cinco dias úteis após a montagem. Se houver sirene audível do exterior, o utilizador tem de assegurar a reposição do alarme até duas horas após comunicação da polícia.
+​
+
+Sistema de segurança interna
+O manual define a segurança interna como uma atividade permanente e plurissetorial, ligada à manutenção da ordem pública, prevenção da criminalidade, proteção de pessoas e bens e defesa da legalidade democrática. Também sublinha que a segurança interna deve sempre respeitar os direitos, liberdades e garantias e os princípios do Estado de direito democrático.
+​
+
+O Governo conduz e executa a política de segurança aprovada no Parlamento. As estruturas executivas do sistema de segurança interna referidas no manual incluem a GNR, a PSP, a Polícia Judiciária, a Polícia Marítima, o Serviço de Estrangeiros e Fronteiras, o SIS e o INAC.
+​
+
+Forças e serviços de segurança
+A GNR é apresentada como força de segurança de natureza militar, com missão de garantir a segurança interna, os direitos dos cidadãos, a ordem e tranquilidade públicas e a segurança rodoviária. O manual refere também que a Guarda não pode dirimir conflitos de natureza privada, devendo nesses casos limitar-se à manutenção da ordem pública.
+​
+
+A segurança privada não substitui estas forças. Atua apenas dentro dos limites legais, sem assumir competências exclusivas policiais ou judiciais.
+​
+
+Fiscalização e responsabilidade
+A fiscalização da atividade é assegurada pela Direção Nacional da PSP em articulação com a Autoridade para as Condições do Trabalho e a Autoridade Tributária e Aduaneira, sem prejuízo das competências de outras forças e serviços de segurança e da Inspeção-Geral da Administração Interna.
+​
+
+As entidades contratantes de serviços de segurança privada podem ser solidariamente responsáveis com as empresas contratadas pelos danos causados pelo pessoal de segurança privada e também por certos incumprimentos laborais, contributivos, fiscais e de segurança social.
+​
+
+Truques para verdadeiro/falso
+Se a frase disser que a segurança privada é complementar às forças de segurança, é verdadeira.
+
+Se disser que a segurança privada pode intervir em manifestações ou conflitos laborais, é falsa.
+
+Se disser que estudos e planos de segurança fazem parte da atividade legal, é verdadeira.
+​
+
+Se disser que a monitorização de alarmes inclui receção, resposta e reposição, é verdadeira.
+
+Se disser que o pessoal pode exercer qualquer função sem especialidade e cartão profissional, é falsa.
+​
+
+Mini-resumo para decorar
+No BAS03, o essencial é saber que a segurança privada é uma atividade legalmente regulada, complementar às forças e serviços de segurança do Estado, exercida por empresas com alvar ou por serviços de autoproteção com licença. Tens de dominar os serviços permitidos, as proibições, as especialidades do pessoal, as regras sobre revistas pessoais, cartão profissional, deveres de colaboração, medidas de segurança, fiscalização e a distinção entre segurança privada e competências exclusivas das forças de segurança.
