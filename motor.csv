@@ -1,44 +1,43 @@
 #ATUALIZACAO: (por Mistral) 12 Novembro 2026,,,,,,
 #JANELA_APLICADA: 9 Novembro 2026 a 11 Janeiro 2027,,,,,,
-#COBERTURA: Sessões de pista de Formula 1, MotoGP, WorldSBK, WRC e eventos marítimos (Surf WSL, Vela — incl. Clube Naval Povoense) confirmados por data. O MEO Rip Curl Pro Portugal (16-25 out) está fora da janela -3/+60 dias e foi mantido por pedido expresso. Sem horários quando não publicados oficialmente.,,,,,,
+#COBERTURA: Sessões de pista de Formula 1, MotoGP, WorldSBK, WRC e eventos marítimos (Surf WSL, Vela — incl. Clube Naval Povoense) confirmados por data. O MEO Rip Curl Pro Portugal (16-25 out) está fora da janela -3/+60 dias e foi mantido por pedido expresso. SEM VÍRGULAS nos campos nome e local (a app desalinha as colunas) — usar hífen. Sem horários quando não publicados oficialmente.,,,,,,
 #FORMATO: [NOME]<br>[LOCAL],DIA_INÍCIO,MÊS_INÍCIO,ANO_INÍCIO,DIA_FIM,MÊS_FIM,ANO_FIM
 
-🌊 <i><b>Surf (WSL) MEO Rip Curl Pro Portugal — Etapa do Championship Tour</b></i><br><i><b>Praia dos Supertubos - Peniche, Portugal</b></i>,16,10,2026,25,10,2026
+🌊 <i><b>Surf (WSL) MEO Rip Curl Pro Portugal — Etapa do Championship Tour</b></i><br><i><b>Praia dos Supertubos - Peniche - Portugal</b></i>,16,10,2026,25,10,2026
 
-⏱️ MotoGP [Grande Prémio de Portugal — Treino Livre 1]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,20,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Portugal — Treino cronometrado]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,20,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Portugal — Treino Livre 2]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Portugal — Qualificação Q1]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Portugal — Qualificação Q2]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
-🏍️ MotoGP [Grande Prémio de Portugal — Sprint]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,21,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Portugal — Warm-up]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,22,11,2026,,,
-🏍️ MotoGP [Grande Prémio de Portugal — Corrida]<br><b>Autódromo Internacional do Algarve - Portimão, Portugal</b>,22,11,2026,,,
-⛵ <i><b>Vela & Navegação Campeonato da Madeira de Vela Ligeira — Brisa, 1.ª Prova</b></i><br><i><b>Baía do Funchal - Madeira, Portugal</b></i>,21,11,2026,22,11,2026
-⛵ <i><b>Vela & Navegação 2.ª PAR — Prova de Apuramento Regional Norte, Optimist</b></i><br><i><b>Campo de Regatas da Marina da Póvoa - Póvoa de Varzim, Portugal</b></i>,21,11,2026,22,11,2026
+⏱️ MotoGP [Grande Prémio de Portugal — Treino Livre 1]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,20,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Treino cronometrado]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,20,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Treino Livre 2]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Qualificação Q1]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Qualificação Q2]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,21,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Portugal — Sprint]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,21,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Portugal — Warm-up]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,22,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Portugal — Corrida]<br><b>Autódromo Internacional do Algarve - Portimão - Portugal</b>,22,11,2026,,,
+⛵ <i><b>Vela & Navegação Campeonato da Madeira de Vela Ligeira — Brisa 1.ª Prova</b></i><br><i><b>Baía do Funchal - Madeira - Portugal</b></i>,21,11,2026,22,11,2026
+⛵ <i><b>Vela & Navegação 2.ª PAR — Prova de Apuramento Regional Norte Optimist</b></i><br><i><b>Campo de Regatas da Marina da Póvoa - Póvoa de Varzim - Portugal</b></i>,21,11,2026,22,11,2026
 ⏱️ WorldSBK [Teste Oficial de Jerez]<br>Circuito de Jerez - Angel Nieto - Espanha,25,11,2026,26,11,2026
 ⏱️ Formula 1 [Grande Prémio do Qatar — Treino Livre 1]<br>Lusail International Circuit - Qatar,27,11,2026,,,
 ⏱️ Formula 1 [Grande Prémio do Qatar — Treino Livre 2]<br>Lusail International Circuit - Qatar,27,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Valência — Treino Livre 1]<br>Circuit Ricardo Tormo - Valência, Espanha,27,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Valência — Treino cronometrado]<br>Circuit Ricardo Tormo - Valência, Espanha,27,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Treino Livre 1]<br>Circuit Ricardo Tormo - Valência - Espanha,27,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Treino cronometrado]<br>Circuit Ricardo Tormo - Valência - Espanha,27,11,2026,,,
 ⏱️ Formula 1 [Grande Prémio do Qatar — Treino Livre 3]<br>Lusail International Circuit - Qatar,28,11,2026,,,
 ⏱️ Formula 1 [Grande Prémio do Qatar — Qualificação]<br>Lusail International Circuit - Qatar,28,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Valência — Treino Livre 2]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Valência — Qualificação Q1]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Valência — Qualificação Q2]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
-🏍️ MotoGP [Grande Prémio de Valência — Sprint]<br>Circuit Ricardo Tormo - Valência, Espanha,28,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Treino Livre 2]<br>Circuit Ricardo Tormo - Valência - Espanha,28,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Qualificação Q1]<br>Circuit Ricardo Tormo - Valência - Espanha,28,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Qualificação Q2]<br>Circuit Ricardo Tormo - Valência - Espanha,28,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Valência — Sprint]<br>Circuit Ricardo Tormo - Valência - Espanha,28,11,2026,,,
 🏎️ Formula 1 [Grande Prémio do Qatar — Corrida]<br>Lusail International Circuit - Qatar,29,11,2026,,,
-⏱️ MotoGP [Grande Prémio de Valência — Warm-up]<br>Circuit Ricardo Tormo - Valência, Espanha,29,11,2026,,,
-🏍️ MotoGP [Grande Prémio de Valência — Corrida]<br>Circuit Ricardo Tormo - Valência, Espanha,29,11,2026,,,
+⏱️ MotoGP [Grande Prémio de Valência — Warm-up]<br>Circuit Ricardo Tormo - Valência - Espanha,29,11,2026,,,
+🏍️ MotoGP [Grande Prémio de Valência — Corrida]<br>Circuit Ricardo Tormo - Valência - Espanha,29,11,2026,,,
 
 ⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Treino Livre 1]<br>Yas Marina Circuit - Emirados Árabes Unidos,4,12,2026,,,
 ⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Treino Livre 2]<br>Yas Marina Circuit - Emirados Árabes Unidos,4,12,2026,,,
 ⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Treino Livre 3]<br>Yas Marina Circuit - Emirados Árabes Unidos,5,12,2026,,,
 ⏱️ Formula 1 [Grande Prémio de Abu Dhabi — Qualificação]<br>Yas Marina Circuit - Emirados Árabes Unidos,5,12,2026,,,
 🏎️ Formula 1 [Grande Prémio de Abu Dhabi — Corrida]<br>Yas Marina Circuit - Emirados Árabes Unidos,6,12,2026,,,
-🌊 <i>Surf (WSL) WSL Finals — Banzai Pipeline, Final do Championship Tour</i><br><i>Banzai Pipeline, North Shore - Havai, EUA</i>,8,12,2026,20,12,2026
+🌊 <i>Surf (WSL) WSL Finals — Banzai Pipeline Final do Championship Tour</i><br><i>Banzai Pipeline - North Shore - Havai - EUA</i>,8,12,2026,20,12,2026
 ⏱️ WorldSBK [Teste Oficial de Valência]<br>Circuit Ricardo Tormo - Valência - Espanha,9,12,2026,10,12,2026
-⛵ <i><b>Vela & Navegação Regata de Natal, IOM (Vela Radio-Controlada)</b></i><br><i><b>Campo de Regatas da Marina da Póvoa - Póvoa de Varzim, Portugal</b></i>,12,12,2026,,,
+⛵ <i><b>Vela & Navegação Regata de Natal IOM (Vela Radio-Controlada)</b></i><br><i><b>Campo de Regatas da Marina da Póvoa - Póvoa de Varzim - Portugal</b></i>,12,12,2026,,,
 
 ⏱️ Rally & WRC [Dakar 2027 — Prólogo]<br>King Abdullah Economic City - Arábia Saudita,1,1,2027,,,
 🏁 Rally & WRC Dakar 2027 — 1.ª prova do Mundial de Rally-Raid<br>Arábia Saudita,2,1,2027,15,1,2027
-
